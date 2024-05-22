@@ -1,6 +1,9 @@
 # this was popping up. I want to change -- Sean
 .DS_Store
 
+# HIPPA is our friend:
+
+/data/raw_from_itn/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
