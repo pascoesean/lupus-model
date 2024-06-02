@@ -16,9 +16,48 @@ neutro_lymph_ratio <- lab_results |>
   filter(`Laboratory Test Name` == "Neutrophils" | `Laboratory Test Name` == "Lymphocytes")
 
 ef1_filtered <- efficacy_one |>
-  select(`Participant ID`, Visit, `Treatment Group (Char)`, `Completed Study`, `Age (years)`, Race, Ethnicity, `Sex (Char)`, `Visit Number`, `Visit Study Day`, `Urinary Protein-to-Creatinine Ratio-spot`, `Blood Albumin (g/dL)`, `Renal Flare`, eGFR)
+  select(`Participant ID`, Visit, `Treatment Group (Char)`, `Completed Study`, `Age (years)`, Race, Ethnicity, `Sex (Char)`, `Visit Number`, `Visit Study Day`, `Urinary Protein-to-Creatinine Ratio-spot`, `Renal Flare`)
 
 ef2_filtered <- efficacy_two |>
-  select(`Participant ID`, Visit, `C3 (mg/dL)`, `C4 (mg/dL)`, `CH50 (units/mL)`, `ANA Result`, `ANA Titer, if Positive`, `IgA (mg/dL)`, `IgG (mg/dL)`, `IgM (mg/dL)`)
+  select(`Participant ID`, Visit, `CH50 (units/mL)`, `IgA (mg/dL)`, `IgG (mg/dL)`)
+
+ef2_filtered <- efficacy_two |>
+  select(`Participant ID`, Visit, `CH50 (units/mL)`)
 
 # need to keep doing...
+
+merged <- ef1_filtered |>
+  left_join(ef2_filtered, by = c("Participant ID", "Visit"))
+
+above_fifteen <- merged |>
+  group_by(`Participant ID`)|>
+  summarize(n = n()) |>
+  arrange(desc(n)) |>
+  filter(n > 15) |>
+  select(`Participant ID`)
+  #drop_na()
+
+four_or_more_visits <- merged |>
+  group_by(`Participant ID`)|>
+  summarize(n = n()) |>
+  arrange(desc(n)) |>
+  filter(n > 3) |>
+  select(`Participant ID`)
+
+merged_fifteen <- merged |>
+  filter(`Participant ID` %in% above_fifteen$`Participant ID`)
+
+
+merged_fifteen |>
+  filter(Race == "Black" | Race == "White") |>
+  ggplot(aes(x = `Visit Study Day`, y = `Urinary Protein-to-Creatinine Ratio-spot`)) +
+  geom_line(aes(color = `Participant ID`)) +
+  facet_wrap(~ Race, nrow = 1) +
+  ggpubr::theme_pubr()
+
+merged_fifteen |>
+  filter(Race == "Black" | Race == "White") |>
+  ggplot(aes(x = `Visit Study Day`, y = `CH50 (units/mL)`)) +
+  geom_line(aes(color = `Participant ID`)) +
+  facet_wrap(~ Race, nrow = 1)
+
