@@ -1,14 +1,13 @@
 # helper functions
 import numpy as np
 import pandas as pd
-rng = np.random.default_rng()
+#rng = np.random.default_rng()
 import pandas as pd
 from scipy.integrate import odeint
 import matplotlib.pyplot as plt
-from lmfit import minimize, Parameters, Parameter, report_fit
-from tqdm import tqdm
+from lmfit import minimize, Parameters
 
-
+# this was generated randomly; then saved. could be regenerated
 by_time_params = pd.read_csv("data/by_time_params.csv")
 by_time_params = by_time_params[['time', 'flare_status', 'si', 'sid', 'sa']].to_dict(orient = "index")
 
@@ -33,10 +32,10 @@ def lupus_system(init, t, paras):
         mua = paras['mua'].value #rate of anti-inflammatory agent degradation
         Ainf = 0.45
         def f(x):
-            return x/((1+(A/Ainf)^2))
+            return x/((1+(A/Ainf)**2))
             #return x
         
-        Idot = f(si) + f(sid)*(D^2/(1 + D^2)) - kip*f(P)*I
+        Idot = f(si) + f(sid)*(D**2/(1 + D**2)) - kip*f(P)*I
         Pdot = f(kpi*I + kpp*P) + f(kpd*D) - mup*P
         Ddot = kdip*f(P)*I + kdp*f(P) - mud*D
         Adot = sa + f(kap*P + kad*D) - mua*A
@@ -58,6 +57,8 @@ def residual(paras, t_range, data):
     """
     compute the residual between actual data and fitted data
     """
+    
+    init = paras['I_0'].value, paras['P_0'].value, paras['D_0'].value, paras['A_0'].value
     model = g(t_range, init, paras)
 
     # you only have data for damage as function of time
@@ -73,7 +74,7 @@ def fit_fixed(data, ax):
     ax.scatter(t_measured, uPCR_measured, marker='o', color='b', label='measured data', s=5)
 
     init = (0.1, 0.5, uPCR_measured[0], 0.1)
-    t_range = srange(0, t_measured.max() + 10, 1)
+    #t_range = range(0, t_measured.max() + 10, 1)
 
     # set parameters including bounds; you can also fix parameters (use ,vary=False)
     params = Parameters()
@@ -81,6 +82,12 @@ def fit_fixed(data, ax):
     params.add('sa', value=1, min=0.0001, max=0.5, vary = False)
     params.add('si', value=0.1, min=0.0001, max=0.5, vary = False)
     params.add('sid', value=0.25, min=0.0001, max=0.5, vary = False)
+    
+    params.add('I_0', value=0.1, vary = False)
+    params.add('P_0', value=0.5, vary = False)
+    params.add('D_0', value=uPCR_measured[0], vary = False)
+    params.add('A_0', value=0.1, vary = False)
+
     params.add('kip', value=0.027, min=0.0001, max=0.5)
     params.add('kpi', value=0.01, min=0.0001, max=1.)
     params.add('kpp', value=0.018, min=0.0001, max=2., vary = False) #
@@ -138,10 +145,10 @@ def lupus_system_stoch(init, t, paras):
         sa = by_time_params.get(time_int).get("sa")
         
         def f(x):
-            return x/((1+(A/0.45)^2)) 
+            return x/((1+(A/0.45)**2)) 
             #return x
         
-        Idot = f(si) + f(sid)*(D^2/(1 + D^2)) - kip*f(P)*I
+        Idot = f(si) + f(sid)*(D**2/(1 + D**2)) - kip*f(P)*I
         Pdot = f(kpi*I + kpp*P) + f(kpd*D) - mup*P
         Ddot = kdip*f(P)*I + kdp*f(P) - mud*D
         Adot = sa + f(kap*P + kad*D) - mua*A
@@ -163,6 +170,8 @@ def residual_stoch(paras, t_range, data):
     """
     compute the residual between actual data and fitted data
     """
+
+    init = paras['I_0'].value, paras['P_0'].value, paras['D_0'].value, paras['A_0'].value
     model = g_stoch(t_range, init, paras)
 
     # you only have data for damage as function of time
@@ -177,18 +186,23 @@ def fit_stochastic(data, ax):
     ax.scatter(t_measured, uPCR_measured, marker='o', color='b', label='measured data', s=5)
 
     init = (0.1, 0.5, uPCR_measured[0], 0.1)
-    t_range = srange(0, t_measured.max() + 10, 1)
+    #t_range = range(0, t_measured.max() + 10, 1)
 
 
     # set parameters including bounds; you can also fix parameters (use ,vary=False)
     params = Parameters()
+    
+    params.add('I_0', value=0.1, vary = False)
+    params.add('P_0', value=0.5, vary = False)
+    params.add('D_0', value=uPCR_measured[0], vary = False)
+    params.add('A_0', value=0.1, vary = False)
 
     params.add('kip', value=0.027, min=0.0001, max=0.5)
     params.add('kpi', value=0.01, min=0.0001, max=1.)
     params.add('kpp', value=0.018, min=0.0001, max=2., vary = False) #
     params.add('kpd', value=0.001, min=0.0001, max=5., vary = False)#
     params.add('mup', value=0.66, min=0.0001, max=1., vary = False)
-    params.add('kdip', value=0.104, min=0.0001, max=0.5, vary = False)
+    params.add('kdip', value=0.104, min=0.0001, max=0.5)
     params.add('kdp', value=0.001, min=0.0001, max=1., vary = False)
     params.add('mud', value=0.087, min=0.0001, max=0.1, vary = False)
     params.add('kap', value=0.001, min=0.0001, max=0.1)
