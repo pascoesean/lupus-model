@@ -20,6 +20,7 @@ vals_w_demo |>
   geom_point(position = position_jitterdodge()) +
   #ggpubr::stat_compare_means() + 
   facet_grid(model_type~parameter) +
+  labs(title = "Fitted Parameter Values by Race") +
   ggpubr::theme_pubr()
 
 # looks same (in line with the treatment not really working)
