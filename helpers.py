@@ -80,24 +80,24 @@ def lupus_flare_fixed(init = (0.1, 0.4, 1.7, 0.1),
             si = 0.005
         return si 
     
-    def fsa_t(t): #time dependency Sa, default sa = 0.05. Attempted = 0.001, 0.07, 0.5, 1
-        sa = 1 ## NOTE, I MADE ALL THE VALUES BE TIMES THE ORIGIANL SA TO SAVE MYSELF FROM HAVING TO CHANGE EVERY ONE
+    def fsa_t(t): #time dependency Sa
+        sa = 0.05
         if 0 <= t <= 60: 
-            sa = sa
+            sa = 0.05
         elif 60 < t <= 120:
-            sa = sa*2
+            sa = 0.1
         elif 120 < t <= 165:
-            sa = sa
+            sa = 0.05
         elif 165 < t <= 180:
-            sa = sa
+            sa = 0.05
         elif 180 < t <= 195:
-            sa = sa*6
+            sa = 0.3
         elif 195 < t <= 225:
-            sa = sa*6
+            sa = 0.3
         elif 225 < t <= 240:
-            sa = sa*6
+            sa = 0.3
         else:
-            sa = sa*2
+            sa = 0.1
         return sa 
 
     def systems (IPDA, t, si_t,sid_t,sa_t):
