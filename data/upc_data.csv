@@ -1,681 +1,681 @@
-ID,day,uPCR,Age (years),Race,Ethnicity
-ACCESS_121249,-21,1.98,51,White,Not Hispanic or Latino
-ACCESS_121249,14,0.47,51,White,Not Hispanic or Latino
-ACCESS_121249,28,0.22,51,White,Not Hispanic or Latino
-ACCESS_121249,40,0.32,51,White,Not Hispanic or Latino
-ACCESS_121249,68,0.36,51,White,Not Hispanic or Latino
-ACCESS_121249,82,1.41,51,White,Not Hispanic or Latino
-ACCESS_121249,119,1.48,51,White,Not Hispanic or Latino
-ACCESS_121249,133,1.86,51,White,Not Hispanic or Latino
-ACCESS_121249,168,0.7,51,White,Not Hispanic or Latino
-ACCESS_121249,194,0.23,51,White,Not Hispanic or Latino
-ACCESS_121249,222,0.24,51,White,Not Hispanic or Latino
-ACCESS_121249,253,0.43,51,White,Not Hispanic or Latino
-ACCESS_121249,285,0.2,51,White,Not Hispanic or Latino
-ACCESS_121249,302,0.13,51,White,Not Hispanic or Latino
-ACCESS_121249,341,0.31,51,White,Not Hispanic or Latino
-ACCESS_121249,362,0.44,51,White,Not Hispanic or Latino
-ACCESS_121249,90,0.92,51,White,Not Hispanic or Latino
-ACCESS_145616,-13,9.22,20,White,Not Hispanic or Latino
-ACCESS_145616,0,7.61,20,White,Not Hispanic or Latino
-ACCESS_145616,14,5.51,20,White,Not Hispanic or Latino
-ACCESS_145616,28,6.53,20,White,Not Hispanic or Latino
-ACCESS_145616,42,2.88,20,White,Not Hispanic or Latino
-ACCESS_145616,56,3.22,20,White,Not Hispanic or Latino
-ACCESS_145616,68,1.64,20,White,Not Hispanic or Latino
-ACCESS_145616,82,2.57,20,White,Not Hispanic or Latino
-ACCESS_145616,112,1.57,20,White,Not Hispanic or Latino
-ACCESS_145616,140,1.03,20,White,Not Hispanic or Latino
-ACCESS_145616,175,1.34,20,White,Not Hispanic or Latino
-ACCESS_145616,203,0.73,20,White,Not Hispanic or Latino
-ACCESS_145616,230,0.64,20,White,Not Hispanic or Latino
-ACCESS_145616,258,1.37,20,White,Not Hispanic or Latino
-ACCESS_145616,285,1.07,20,White,Not Hispanic or Latino
-ACCESS_145616,313,1.34,20,White,Not Hispanic or Latino
-ACCESS_145616,341,2.07,20,White,Not Hispanic or Latino
-ACCESS_145616,371,3.36,20,White,Not Hispanic or Latino
-ACCESS_145616,789,6.62,20,White,Not Hispanic or Latino
-ACCESS_146963,-14,2.26,34,White,Not Hispanic or Latino
-ACCESS_146963,0,1.79,34,White,Not Hispanic or Latino
-ACCESS_146963,17,1.34,34,White,Not Hispanic or Latino
-ACCESS_146963,30,1.02,34,White,Not Hispanic or Latino
-ACCESS_146963,42,0.49,34,White,Not Hispanic or Latino
-ACCESS_146963,56,0.53,34,White,Not Hispanic or Latino
-ACCESS_146963,70,0.94,34,White,Not Hispanic or Latino
-ACCESS_146963,112,0.13,34,White,Not Hispanic or Latino
-ACCESS_146963,148,0.13,34,White,Not Hispanic or Latino
-ACCESS_146963,199,0.09,34,White,Not Hispanic or Latino
-ACCESS_146963,231,0.11,34,White,Not Hispanic or Latino
-ACCESS_146963,254,0.09,34,White,Not Hispanic or Latino
-ACCESS_146963,280,0.18,34,White,Not Hispanic or Latino
-ACCESS_146963,309,0.14,34,White,Not Hispanic or Latino
-ACCESS_146963,338,0.11,34,White,Not Hispanic or Latino
-ACCESS_168120,0,2.72,55,White,Not Hispanic or Latino
-ACCESS_168120,14,2.67,55,White,Not Hispanic or Latino
-ACCESS_168120,28,2.56,55,White,Not Hispanic or Latino
-ACCESS_168120,42,3.73,55,White,Not Hispanic or Latino
-ACCESS_168120,57,0.67,55,White,Not Hispanic or Latino
-ACCESS_168120,71,0.15,55,White,Not Hispanic or Latino
-ACCESS_168120,112,0.08,55,White,Not Hispanic or Latino
-ACCESS_168120,141,0.24,55,White,Not Hispanic or Latino
-ACCESS_168120,199,0.08,55,White,Not Hispanic or Latino
-ACCESS_168120,224,0.09,55,White,Not Hispanic or Latino
-ACCESS_168120,252,0.25,55,White,Not Hispanic or Latino
-ACCESS_168120,308,0.06,55,White,Not Hispanic or Latino
-ACCESS_168120,336,0.06,55,White,Not Hispanic or Latino
-ACCESS_168120,728,0.21,55,White,Not Hispanic or Latino
-ACCESS_207331,0,0.8,59,White,Not Hispanic or Latino
-ACCESS_207331,40,1.37,59,White,Not Hispanic or Latino
-ACCESS_207331,54,0.48,59,White,Not Hispanic or Latino
-ACCESS_207331,68,1.18,59,White,Not Hispanic or Latino
-ACCESS_207331,82,2.06,59,White,Not Hispanic or Latino
-ACCESS_207331,110,1.38,59,White,Not Hispanic or Latino
-ACCESS_207331,140,1.72,59,White,Not Hispanic or Latino
-ACCESS_207331,168,1.13,59,White,Not Hispanic or Latino
-ACCESS_207331,201,0.92,59,White,Not Hispanic or Latino
-ACCESS_207331,229,0.73,59,White,Not Hispanic or Latino
-ACCESS_207331,252,0.78,59,White,Not Hispanic or Latino
-ACCESS_207331,285,0.63,59,White,Not Hispanic or Latino
-ACCESS_207331,308,0.24,59,White,Not Hispanic or Latino
-ACCESS_207331,341,0.34,59,White,Not Hispanic or Latino
-ACCESS_207331,364,0.19,59,White,Not Hispanic or Latino
-ACCESS_207331,756,0.05,59,White,Not Hispanic or Latino
-ACCESS_220193,-3,1.64,38,Black,Not Hispanic or Latino
-ACCESS_220193,0,1.38,38,Black,Not Hispanic or Latino
-ACCESS_220193,11,0.81,38,Black,Not Hispanic or Latino
-ACCESS_220193,25,0.46,38,Black,Not Hispanic or Latino
-ACCESS_220193,41,0.32,38,Black,Not Hispanic or Latino
-ACCESS_220193,60,0.33,38,Black,Not Hispanic or Latino
-ACCESS_220193,73,0.21,38,Black,Not Hispanic or Latino
-ACCESS_220193,83,0.29,38,Black,Not Hispanic or Latino
-ACCESS_220193,111,0.31,38,Black,Not Hispanic or Latino
-ACCESS_220193,146,0.5,38,Black,Not Hispanic or Latino
-ACCESS_220193,172,0.82,38,Black,Not Hispanic or Latino
-ACCESS_220193,196,0.71,38,Black,Not Hispanic or Latino
-ACCESS_220193,55,0.36,38,Black,Not Hispanic or Latino
-ACCESS_220193,66,0.33,38,Black,Not Hispanic or Latino
-ACCESS_228482,-14,1.58,25,White,Not Hispanic or Latino
-ACCESS_228482,0,0.7,25,White,Not Hispanic or Latino
-ACCESS_228482,16,1.83,25,White,Not Hispanic or Latino
-ACCESS_228482,28,0.46,25,White,Not Hispanic or Latino
-ACCESS_228482,42,1.41,25,White,Not Hispanic or Latino
-ACCESS_228482,56,1.28,25,White,Not Hispanic or Latino
-ACCESS_228482,77,0.72,25,White,Not Hispanic or Latino
-ACCESS_228482,112,0.36,25,White,Not Hispanic or Latino
-ACCESS_228482,140,0.21,25,White,Not Hispanic or Latino
-ACCESS_228482,196,0.33,25,White,Not Hispanic or Latino
-ACCESS_228482,224,0.21,25,White,Not Hispanic or Latino
-ACCESS_228482,280,0.3,25,White,Not Hispanic or Latino
-ACCESS_228482,308,0.45,25,White,Not Hispanic or Latino
-ACCESS_228482,336,0.32,25,White,Not Hispanic or Latino
-ACCESS_228482,728,0.17,25,White,Not Hispanic or Latino
-ACCESS_240896,0,4.16,25,White,Not Hispanic or Latino
-ACCESS_240896,14,1.77,25,White,Not Hispanic or Latino
-ACCESS_240896,28,4.12,25,White,Not Hispanic or Latino
-ACCESS_240896,42,3.74,25,White,Not Hispanic or Latino
-ACCESS_240896,56,1.07,25,White,Not Hispanic or Latino
-ACCESS_240896,72,2.63,25,White,Not Hispanic or Latino
-ACCESS_240896,112,0.66,25,White,Not Hispanic or Latino
-ACCESS_240896,140,0.37,25,White,Not Hispanic or Latino
-ACCESS_240896,202,0.18,25,White,Not Hispanic or Latino
-ACCESS_240896,224,0.3,25,White,Not Hispanic or Latino
-ACCESS_240896,285,0.24,25,White,Not Hispanic or Latino
-ACCESS_240896,308,0.11,25,White,Not Hispanic or Latino
-ACCESS_240896,335,0.1,25,White,Not Hispanic or Latino
-ACCESS_240896,719,0.09,25,White,Not Hispanic or Latino
-ACCESS_248873,-14,5.17,33,White,Hispanic or Latino
-ACCESS_248873,0,3.17,33,White,Hispanic or Latino
-ACCESS_248873,14,3.49,33,White,Hispanic or Latino
-ACCESS_248873,28,3.61,33,White,Hispanic or Latino
-ACCESS_248873,42,3.51,33,White,Hispanic or Latino
-ACCESS_248873,56,2.21,33,White,Hispanic or Latino
-ACCESS_248873,72,1.75,33,White,Hispanic or Latino
-ACCESS_248873,112,1.03,33,White,Hispanic or Latino
-ACCESS_248873,140,1.45,33,White,Hispanic or Latino
-ACCESS_248873,196,1.19,33,White,Hispanic or Latino
-ACCESS_248873,224,0.92,33,White,Hispanic or Latino
-ACCESS_248873,281,0.24,33,White,Hispanic or Latino
-ACCESS_248873,308,0.14,33,White,Hispanic or Latino
-ACCESS_248873,337,0.57,33,White,Hispanic or Latino
-ACCESS_248873,368,0.16,33,White,Hispanic or Latino
-ACCESS_248873,729,0.29,33,White,Hispanic or Latino
-ACCESS_256457,0,3.18,47,White,Hispanic or Latino
-ACCESS_256457,15,2.55,47,White,Hispanic or Latino
-ACCESS_256457,29,1.82,47,White,Hispanic or Latino
-ACCESS_256457,43,1.77,47,White,Hispanic or Latino
-ACCESS_256457,58,0.54,47,White,Hispanic or Latino
-ACCESS_256457,71,1.15,47,White,Hispanic or Latino
-ACCESS_256457,107,0.69,47,White,Hispanic or Latino
-ACCESS_256457,141,0.24,47,White,Hispanic or Latino
-ACCESS_256457,197,0.28,47,White,Hispanic or Latino
-ACCESS_256457,223,0.3,47,White,Hispanic or Latino
-ACCESS_256457,281,0.28,47,White,Hispanic or Latino
-ACCESS_256457,309,0.17,47,White,Hispanic or Latino
-ACCESS_256457,337,0.72,47,White,Hispanic or Latino
-ACCESS_256457,758,0.08,47,White,Hispanic or Latino
-ACCESS_256457,183,0.21,47,White,Hispanic or Latino
-ACCESS_279134,0,1.32,32,Black,Not Hispanic or Latino
-ACCESS_279134,14,1.97,32,Black,Not Hispanic or Latino
-ACCESS_279134,28,1.13,32,Black,Not Hispanic or Latino
-ACCESS_279134,44,0.71,32,Black,Not Hispanic or Latino
-ACCESS_279134,56,1.71,32,Black,Not Hispanic or Latino
-ACCESS_279134,70,2.34,32,Black,Not Hispanic or Latino
-ACCESS_279134,114,1.56,32,Black,Not Hispanic or Latino
-ACCESS_279134,146,2.2,32,Black,Not Hispanic or Latino
-ACCESS_279134,202,1.03,32,Black,Not Hispanic or Latino
-ACCESS_279134,226,0.28,32,Black,Not Hispanic or Latino
-ACCESS_279134,282,0.49,32,Black,Not Hispanic or Latino
-ACCESS_279134,317,0.89,32,Black,Not Hispanic or Latino
-ACCESS_279134,338,0.77,32,Black,Not Hispanic or Latino
-ACCESS_279134,744,0.1,32,Black,Not Hispanic or Latino
-ACCESS_294996,-7,5.9,31,Black,Not Hispanic or Latino
-ACCESS_294996,0,6.24,31,Black,Not Hispanic or Latino
-ACCESS_294996,14,3.28,31,Black,Not Hispanic or Latino
-ACCESS_294996,28,2.01,31,Black,Not Hispanic or Latino
-ACCESS_294996,42,1.2,31,Black,Not Hispanic or Latino
-ACCESS_294996,56,2.46,31,Black,Not Hispanic or Latino
-ACCESS_294996,70,4.6,31,Black,Not Hispanic or Latino
-ACCESS_294996,112,2.59,31,Black,Not Hispanic or Latino
-ACCESS_294996,140,1.56,31,Black,Not Hispanic or Latino
-ACCESS_294996,196,1.62,31,Black,Not Hispanic or Latino
-ACCESS_294996,224,2.19,31,Black,Not Hispanic or Latino
-ACCESS_294996,280,2.85,31,Black,Not Hispanic or Latino
-ACCESS_294996,308,1.64,31,Black,Not Hispanic or Latino
-ACCESS_294996,338,0.76,31,Black,Not Hispanic or Latino
-ACCESS_294996,721,0.66,31,Black,Not Hispanic or Latino
-ACCESS_298381,0,2.63,35,White,Hispanic or Latino
-ACCESS_298381,15,3.56,35,White,Hispanic or Latino
-ACCESS_298381,28,1.09,35,White,Hispanic or Latino
-ACCESS_298381,42,0.5,35,White,Hispanic or Latino
-ACCESS_298381,56,0.26,35,White,Hispanic or Latino
-ACCESS_298381,70,5.62,35,White,Hispanic or Latino
-ACCESS_298381,84,0.22,35,White,Hispanic or Latino
-ACCESS_298381,112,0.19,35,White,Hispanic or Latino
-ACCESS_298381,140,0.13,35,White,Hispanic or Latino
-ACCESS_298381,191,0.13,35,White,Hispanic or Latino
-ACCESS_298381,217,0.22,35,White,Hispanic or Latino
-ACCESS_298381,274,0.35,35,White,Hispanic or Latino
-ACCESS_298381,313,0.26,35,White,Hispanic or Latino
-ACCESS_298381,335,0.36,35,White,Hispanic or Latino
-ACCESS_298381,757,3.58,35,White,Hispanic or Latino
-ACCESS_323258,0,3.18,36,White,Not Hispanic or Latino
-ACCESS_323258,14,2.33,36,White,Not Hispanic or Latino
-ACCESS_323258,28,2.31,36,White,Not Hispanic or Latino
-ACCESS_323258,42,2.34,36,White,Not Hispanic or Latino
-ACCESS_323258,56,1.29,36,White,Not Hispanic or Latino
-ACCESS_323258,70,1.65,36,White,Not Hispanic or Latino
-ACCESS_323258,112,0.32,36,White,Not Hispanic or Latino
-ACCESS_323258,140,0.24,36,White,Not Hispanic or Latino
-ACCESS_323258,203,0.14,36,White,Not Hispanic or Latino
-ACCESS_323258,224,0.14,36,White,Not Hispanic or Latino
-ACCESS_323258,282,0.29,36,White,Not Hispanic or Latino
-ACCESS_323258,310,0.29,36,White,Not Hispanic or Latino
-ACCESS_323258,336,0.22,36,White,Not Hispanic or Latino
-ACCESS_323258,735,0.2,36,White,Not Hispanic or Latino
-ACCESS_352047,0,4.92,48,Black,Not Hispanic or Latino
-ACCESS_352047,20,2.21,48,Black,Not Hispanic or Latino
-ACCESS_352047,35,3.68,48,Black,Not Hispanic or Latino
-ACCESS_352047,48,3.87,48,Black,Not Hispanic or Latino
-ACCESS_352047,61,2.91,48,Black,Not Hispanic or Latino
-ACCESS_352047,71,3.87,48,Black,Not Hispanic or Latino
-ACCESS_352047,112,0.75,48,Black,Not Hispanic or Latino
-ACCESS_352047,140,0.37,48,Black,Not Hispanic or Latino
-ACCESS_352047,195,0.19,48,Black,Not Hispanic or Latino
-ACCESS_352047,223,0.31,48,Black,Not Hispanic or Latino
-ACCESS_352047,274,0.3,48,Black,Not Hispanic or Latino
-ACCESS_352047,302,0.25,48,Black,Not Hispanic or Latino
-ACCESS_352047,342,0.07,48,Black,Not Hispanic or Latino
-ACCESS_352047,363,0.18,48,Black,Not Hispanic or Latino
-ACCESS_352047,720,0.3,48,Black,Not Hispanic or Latino
-ACCESS_362847,0,3.5,22,Black,Not Hispanic or Latino
-ACCESS_362847,12,3.94,22,Black,Not Hispanic or Latino
-ACCESS_362847,28,1.33,22,Black,Not Hispanic or Latino
-ACCESS_362847,42,0.2,22,Black,Not Hispanic or Latino
-ACCESS_362847,56,0.45,22,Black,Not Hispanic or Latino
-ACCESS_362847,70,0.12,22,Black,Not Hispanic or Latino
-ACCESS_362847,112,0.91,22,Black,Not Hispanic or Latino
-ACCESS_362847,140,0.06,22,Black,Not Hispanic or Latino
-ACCESS_362847,196,0.21,22,Black,Not Hispanic or Latino
-ACCESS_362847,224,0.08,22,Black,Not Hispanic or Latino
-ACCESS_362847,280,0.05,22,Black,Not Hispanic or Latino
-ACCESS_362847,308,0.05,22,Black,Not Hispanic or Latino
-ACCESS_362847,334,0.13,22,Black,Not Hispanic or Latino
-ACCESS_362847,726,0.21,22,Black,Not Hispanic or Latino
-ACCESS_366444,-12,3.51,27,White,Hispanic or Latino
-ACCESS_366444,0,2.46,27,White,Hispanic or Latino
-ACCESS_366444,14,1.25,27,White,Hispanic or Latino
-ACCESS_366444,35,2.42,27,White,Hispanic or Latino
-ACCESS_366444,52,0.86,27,White,Hispanic or Latino
-ACCESS_366444,66,0.79,27,White,Hispanic or Latino
-ACCESS_366444,80,0.61,27,White,Hispanic or Latino
-ACCESS_366444,122,0.51,27,White,Hispanic or Latino
-ACCESS_366444,143,0.53,27,White,Hispanic or Latino
-ACCESS_366444,192,0.43,27,White,Hispanic or Latino
-ACCESS_366444,219,0.48,27,White,Hispanic or Latino
-ACCESS_366444,283,0.52,27,White,Hispanic or Latino
-ACCESS_366444,311,0.69,27,White,Hispanic or Latino
-ACCESS_366444,339,0.72,27,White,Hispanic or Latino
-ACCESS_366444,734,0.45,27,White,Hispanic or Latino
-ACCESS_381640,-8,1.85,54,Black,Not Hispanic or Latino
-ACCESS_381640,0,1.45,54,Black,Not Hispanic or Latino
-ACCESS_381640,13,1.13,54,Black,Not Hispanic or Latino
-ACCESS_381640,27,0.95,54,Black,Not Hispanic or Latino
-ACCESS_381640,41,0.89,54,Black,Not Hispanic or Latino
-ACCESS_381640,55,0.73,54,Black,Not Hispanic or Latino
-ACCESS_381640,69,0.82,54,Black,Not Hispanic or Latino
-ACCESS_381640,111,0.59,54,Black,Not Hispanic or Latino
-ACCESS_381640,138,0.19,54,Black,Not Hispanic or Latino
-ACCESS_381640,195,0.28,54,Black,Not Hispanic or Latino
-ACCESS_381640,223,0.2,54,Black,Not Hispanic or Latino
-ACCESS_381640,279,0.32,54,Black,Not Hispanic or Latino
-ACCESS_381640,302,0.16,54,Black,Not Hispanic or Latino
-ACCESS_381640,336,0.12,54,Black,Not Hispanic or Latino
-ACCESS_381640,740,0.19,54,Black,Not Hispanic or Latino
-ACCESS_393472,0,0.16,25,White,Not Hispanic or Latino
-ACCESS_393472,14,0.84,25,White,Not Hispanic or Latino
-ACCESS_393472,30,0.31,25,White,Not Hispanic or Latino
-ACCESS_393472,44,0.24,25,White,Not Hispanic or Latino
-ACCESS_393472,56,0.15,25,White,Not Hispanic or Latino
-ACCESS_393472,70,0.32,25,White,Not Hispanic or Latino
-ACCESS_393472,114,0.22,25,White,Not Hispanic or Latino
-ACCESS_393472,140,0.07,25,White,Not Hispanic or Latino
-ACCESS_393472,170,0.56,25,White,Not Hispanic or Latino
-ACCESS_393472,191,0.79,25,White,Not Hispanic or Latino
-ACCESS_393472,226,0.88,25,White,Not Hispanic or Latino
-ACCESS_393472,282,1.64,25,White,Not Hispanic or Latino
-ACCESS_393472,310,1.05,25,White,Not Hispanic or Latino
-ACCESS_393472,338,1.22,25,White,Not Hispanic or Latino
-ACCESS_393472,723,1.14,25,White,Not Hispanic or Latino
-ACCESS_455644,0,12.79,42,White,Hispanic or Latino
-ACCESS_455644,14,5.16,42,White,Hispanic or Latino
-ACCESS_455644,28,6.47,42,White,Hispanic or Latino
-ACCESS_455644,44,2.2,42,White,Hispanic or Latino
-ACCESS_455644,58,1.54,42,White,Hispanic or Latino
-ACCESS_455644,70,3.4,42,White,Hispanic or Latino
-ACCESS_455644,86,3.54,42,White,Hispanic or Latino
-ACCESS_455644,114,4.06,42,White,Hispanic or Latino
-ACCESS_455644,142,2.17,42,White,Hispanic or Latino
-ACCESS_455644,191,0.46,42,White,Hispanic or Latino
-ACCESS_455644,226,0.33,42,White,Hispanic or Latino
-ACCESS_455644,282,0.44,42,White,Hispanic or Latino
-ACCESS_455644,310,0.6,42,White,Hispanic or Latino
-ACCESS_455644,338,0.55,42,White,Hispanic or Latino
-ACCESS_455644,840,0.06,42,White,Hispanic or Latino
-ACCESS_482606,0,11.55,28,White,Hispanic or Latino
-ACCESS_482606,14,3.57,28,White,Hispanic or Latino
-ACCESS_482606,28,4.43,28,White,Hispanic or Latino
-ACCESS_482606,42,3.64,28,White,Hispanic or Latino
-ACCESS_482606,56,3.59,28,White,Hispanic or Latino
-ACCESS_482606,70,3.38,28,White,Hispanic or Latino
-ACCESS_482606,112,1.79,28,White,Hispanic or Latino
-ACCESS_482606,140,0.42,28,White,Hispanic or Latino
-ACCESS_482606,196,0.24,28,White,Hispanic or Latino
-ACCESS_482606,231,0.24,28,White,Hispanic or Latino
-ACCESS_482606,280,0.52,28,White,Hispanic or Latino
-ACCESS_482606,306,0.15,28,White,Hispanic or Latino
-ACCESS_482606,334,0.12,28,White,Hispanic or Latino
-ACCESS_482606,805,7.62,28,White,Hispanic or Latino
-ACCESS_510271,0,3.32,34,White,Not Hispanic or Latino
-ACCESS_510271,13,1.34,34,White,Not Hispanic or Latino
-ACCESS_510271,28,0.27,34,White,Not Hispanic or Latino
-ACCESS_510271,41,0.52,34,White,Not Hispanic or Latino
-ACCESS_510271,54,0.16,34,White,Not Hispanic or Latino
-ACCESS_510271,68,0.21,34,White,Not Hispanic or Latino
-ACCESS_510271,111,0.21,34,White,Not Hispanic or Latino
-ACCESS_510271,138,0.33,34,White,Not Hispanic or Latino
-ACCESS_510271,200,0.19,34,White,Not Hispanic or Latino
-ACCESS_510271,217,0.18,34,White,Not Hispanic or Latino
-ACCESS_510271,279,0.14,34,White,Not Hispanic or Latino
-ACCESS_510271,306,0.2,34,White,Not Hispanic or Latino
-ACCESS_510271,348,0.3,34,White,Not Hispanic or Latino
-ACCESS_510271,734,0.29,34,White,Not Hispanic or Latino
-ACCESS_571233,0,8.14,30,Black,Not Hispanic or Latino
-ACCESS_571233,17,4.53,30,Black,Not Hispanic or Latino
-ACCESS_571233,29,4.25,30,Black,Not Hispanic or Latino
-ACCESS_571233,43,6.6,30,Black,Not Hispanic or Latino
-ACCESS_571233,57,1.83,30,Black,Not Hispanic or Latino
-ACCESS_571233,71,2.29,30,Black,Not Hispanic or Latino
-ACCESS_571233,113,2.36,30,Black,Not Hispanic or Latino
-ACCESS_571233,148,2.91,30,Black,Not Hispanic or Latino
-ACCESS_571233,203,2.21,30,Black,Not Hispanic or Latino
-ACCESS_571233,225,2.71,30,Black,Not Hispanic or Latino
-ACCESS_571233,256,2.06,30,Black,Not Hispanic or Latino
-ACCESS_571233,317,1.52,30,Black,Not Hispanic or Latino
-ACCESS_571233,343,1.38,30,Black,Not Hispanic or Latino
-ACCESS_571233,745,1.07,30,Black,Not Hispanic or Latino
-ACCESS_604457,0,0.81,37,White,Hispanic or Latino
-ACCESS_604457,16,0.34,37,White,Hispanic or Latino
-ACCESS_604457,30,0.19,37,White,Hispanic or Latino
-ACCESS_604457,43,0.13,37,White,Hispanic or Latino
-ACCESS_604457,58,0.12,37,White,Hispanic or Latino
-ACCESS_604457,71,0.15,37,White,Hispanic or Latino
-ACCESS_604457,113,0.15,37,White,Hispanic or Latino
-ACCESS_604457,141,0.11,37,White,Hispanic or Latino
-ACCESS_604457,198,0.12,37,White,Hispanic or Latino
-ACCESS_604457,226,0.17,37,White,Hispanic or Latino
-ACCESS_604457,280,0.11,37,White,Hispanic or Latino
-ACCESS_604457,308,0.09,37,White,Hispanic or Latino
-ACCESS_604457,337,0.06,37,White,Hispanic or Latino
-ACCESS_604457,784,0.1,37,White,Hispanic or Latino
-ACCESS_608354,0,17.25,22,White,Not Hispanic or Latino
-ACCESS_608354,14,11.08,22,White,Not Hispanic or Latino
-ACCESS_608354,27,4.86,22,White,Not Hispanic or Latino
-ACCESS_608354,42,5.2,22,White,Not Hispanic or Latino
-ACCESS_608354,56,3.1,22,White,Not Hispanic or Latino
-ACCESS_608354,70,3.6,22,White,Not Hispanic or Latino
-ACCESS_608354,84,5.27,22,White,Not Hispanic or Latino
-ACCESS_608354,111,4.14,22,White,Not Hispanic or Latino
-ACCESS_608354,133,3.43,22,White,Not Hispanic or Latino
-ACCESS_608354,203,3.42,22,White,Not Hispanic or Latino
-ACCESS_608354,222,2.89,22,White,Not Hispanic or Latino
-ACCESS_608354,280,4.14,22,White,Not Hispanic or Latino
-ACCESS_608354,308,1.23,22,White,Not Hispanic or Latino
-ACCESS_608354,329,2.34,22,White,Not Hispanic or Latino
-ACCESS_608354,768,9.7,22,White,Not Hispanic or Latino
-ACCESS_608552,0,0.41,28,Black,Not Hispanic or Latino
-ACCESS_608552,14,0.41,28,Black,Not Hispanic or Latino
-ACCESS_608552,28,0.28,28,Black,Not Hispanic or Latino
-ACCESS_608552,42,0.27,28,Black,Not Hispanic or Latino
-ACCESS_608552,56,0.24,28,Black,Not Hispanic or Latino
-ACCESS_608552,79,0.24,28,Black,Not Hispanic or Latino
-ACCESS_608552,84,0.2,28,Black,Not Hispanic or Latino
-ACCESS_608552,114,0.12,28,Black,Not Hispanic or Latino
-ACCESS_608552,140,0.31,28,Black,Not Hispanic or Latino
-ACCESS_608552,196,0.1,28,Black,Not Hispanic or Latino
-ACCESS_608552,226,0.07,28,Black,Not Hispanic or Latino
-ACCESS_608552,280,0.09,28,Black,Not Hispanic or Latino
-ACCESS_608552,308,0.1,28,Black,Not Hispanic or Latino
-ACCESS_608552,336,0.07,28,Black,Not Hispanic or Latino
-ACCESS_608552,770,0.06,28,Black,Not Hispanic or Latino
-ACCESS_616543,0,0.52,28,White,Hispanic or Latino
-ACCESS_616543,14,1.9,28,White,Hispanic or Latino
-ACCESS_616543,28,1.94,28,White,Hispanic or Latino
-ACCESS_616543,42,1.54,28,White,Hispanic or Latino
-ACCESS_616543,56,2.8,28,White,Hispanic or Latino
-ACCESS_616543,70,1.17,28,White,Hispanic or Latino
-ACCESS_616543,110,1.97,28,White,Hispanic or Latino
-ACCESS_616543,138,0.47,28,White,Hispanic or Latino
-ACCESS_616543,194,0.99,28,White,Hispanic or Latino
-ACCESS_616543,222,0.9,28,White,Hispanic or Latino
-ACCESS_616543,278,0.52,28,White,Hispanic or Latino
-ACCESS_616543,306,0.35,28,White,Hispanic or Latino
-ACCESS_616543,334,1.48,28,White,Hispanic or Latino
-ACCESS_616543,728,1.2,28,White,Hispanic or Latino
-ACCESS_663410,0,6.01,28,White,Not Hispanic or Latino
-ACCESS_663410,13,4.08,28,White,Not Hispanic or Latino
-ACCESS_663410,28,2.06,28,White,Not Hispanic or Latino
-ACCESS_663410,42,1.5,28,White,Not Hispanic or Latino
-ACCESS_663410,54,2.52,28,White,Not Hispanic or Latino
-ACCESS_663410,70,1.71,28,White,Not Hispanic or Latino
-ACCESS_663410,112,4.1,28,White,Not Hispanic or Latino
-ACCESS_663410,140,2.52,28,White,Not Hispanic or Latino
-ACCESS_663410,196,0.78,28,White,Not Hispanic or Latino
-ACCESS_663410,224,1.47,28,White,Not Hispanic or Latino
-ACCESS_663410,280,0.66,28,White,Not Hispanic or Latino
-ACCESS_663410,308,1,28,White,Not Hispanic or Latino
-ACCESS_663410,336,0.47,28,White,Not Hispanic or Latino
-ACCESS_663410,728,0.26,28,White,Not Hispanic or Latino
-ACCESS_665783,0,10,32,Black,Not Hispanic or Latino
-ACCESS_665783,18,11.37,32,Black,Not Hispanic or Latino
-ACCESS_665783,32,9.4,32,Black,Not Hispanic or Latino
-ACCESS_665783,46,8.94,32,Black,Not Hispanic or Latino
-ACCESS_665783,60,6.46,32,Black,Not Hispanic or Latino
-ACCESS_665783,75,4.56,32,Black,Not Hispanic or Latino
-ACCESS_665783,90,2.28,32,Black,Not Hispanic or Latino
-ACCESS_665783,116,1.92,32,Black,Not Hispanic or Latino
-ACCESS_665783,138,1.63,32,Black,Not Hispanic or Latino
-ACCESS_665783,171,3.32,32,Black,Not Hispanic or Latino
-ACCESS_665783,209,5.17,32,Black,Not Hispanic or Latino
-ACCESS_665783,230,5.39,32,Black,Not Hispanic or Latino
-ACCESS_665783,255,3.42,32,Black,Not Hispanic or Latino
-ACCESS_665783,326,6.38,32,Black,Not Hispanic or Latino
-ACCESS_665783,424,11.72,32,Black,Not Hispanic or Latino
-ACCESS_680322,0,3.45,23,Black,Not Hispanic or Latino
-ACCESS_680322,17,1.43,23,Black,Not Hispanic or Latino
-ACCESS_680322,28,1.58,23,Black,Not Hispanic or Latino
-ACCESS_680322,42,0.64,23,Black,Not Hispanic or Latino
-ACCESS_680322,56,0.67,23,Black,Not Hispanic or Latino
-ACCESS_680322,70,0.83,23,Black,Not Hispanic or Latino
-ACCESS_680322,112,0.76,23,Black,Not Hispanic or Latino
-ACCESS_680322,140,0.22,23,Black,Not Hispanic or Latino
-ACCESS_680322,196,0.45,23,Black,Not Hispanic or Latino
-ACCESS_680322,227,0.36,23,Black,Not Hispanic or Latino
-ACCESS_680322,280,0.45,23,Black,Not Hispanic or Latino
-ACCESS_680322,308,0.29,23,Black,Not Hispanic or Latino
-ACCESS_680322,336,0.17,23,Black,Not Hispanic or Latino
-ACCESS_680322,784,2.3,23,Black,Not Hispanic or Latino
-ACCESS_700421,0,4.4,42,White,Hispanic or Latino
-ACCESS_700421,14,2.15,42,White,Hispanic or Latino
-ACCESS_700421,28,0.7,42,White,Hispanic or Latino
-ACCESS_700421,42,0.34,42,White,Hispanic or Latino
-ACCESS_700421,56,0.51,42,White,Hispanic or Latino
-ACCESS_700421,70,0.25,42,White,Hispanic or Latino
-ACCESS_700421,112,0.17,42,White,Hispanic or Latino
-ACCESS_700421,138,0.2,42,White,Hispanic or Latino
-ACCESS_700421,194,0.21,42,White,Hispanic or Latino
-ACCESS_700421,222,0.24,42,White,Hispanic or Latino
-ACCESS_700421,278,0.12,42,White,Hispanic or Latino
-ACCESS_700421,306,0.22,42,White,Hispanic or Latino
-ACCESS_700421,334,0.23,42,White,Hispanic or Latino
-ACCESS_700421,749,3.4,42,White,Hispanic or Latino
-ACCESS_710769,0,2.69,25,White,Hispanic or Latino
-ACCESS_710769,16,3.65,25,White,Hispanic or Latino
-ACCESS_710769,29,1.4,25,White,Hispanic or Latino
-ACCESS_710769,42,2.68,25,White,Hispanic or Latino
-ACCESS_710769,56,1.38,25,White,Hispanic or Latino
-ACCESS_710769,70,0.97,25,White,Hispanic or Latino
-ACCESS_710769,112,1.48,25,White,Hispanic or Latino
-ACCESS_710769,140,1.49,25,White,Hispanic or Latino
-ACCESS_710769,196,0.46,25,White,Hispanic or Latino
-ACCESS_710769,224,0.18,25,White,Hispanic or Latino
-ACCESS_710769,282,0.11,25,White,Hispanic or Latino
-ACCESS_710769,310,0.14,25,White,Hispanic or Latino
-ACCESS_710769,338,0.33,25,White,Hispanic or Latino
-ACCESS_710769,737,0.07,25,White,Hispanic or Latino
-ACCESS_728908,0,1.89,48,White,Hispanic or Latino
-ACCESS_728908,15,8.38,48,White,Hispanic or Latino
-ACCESS_728908,30,7.76,48,White,Hispanic or Latino
-ACCESS_728908,44,3.19,48,White,Hispanic or Latino
-ACCESS_728908,58,4.77,48,White,Hispanic or Latino
-ACCESS_728908,72,1.04,48,White,Hispanic or Latino
-ACCESS_728908,113,2.35,48,White,Hispanic or Latino
-ACCESS_728908,140,0.78,48,White,Hispanic or Latino
-ACCESS_728908,198,0.72,48,White,Hispanic or Latino
-ACCESS_728908,226,0.32,48,White,Hispanic or Latino
-ACCESS_728908,282,0.5,48,White,Hispanic or Latino
-ACCESS_728908,301,0.59,48,White,Hispanic or Latino
-ACCESS_728908,331,0.31,48,White,Hispanic or Latino
-ACCESS_728908,364,0.44,48,White,Hispanic or Latino
-ACCESS_728908,730,1,48,White,Hispanic or Latino
-ACCESS_731114,0,5.31,28,White,Not Hispanic or Latino
-ACCESS_731114,13,4.38,28,White,Not Hispanic or Latino
-ACCESS_731114,27,6.56,28,White,Not Hispanic or Latino
-ACCESS_731114,41,0.96,28,White,Not Hispanic or Latino
-ACCESS_731114,55,0.44,28,White,Not Hispanic or Latino
-ACCESS_731114,69,0.44,28,White,Not Hispanic or Latino
-ACCESS_731114,111,0.3,28,White,Not Hispanic or Latino
-ACCESS_731114,139,0.31,28,White,Not Hispanic or Latino
-ACCESS_731114,195,0.2,28,White,Not Hispanic or Latino
-ACCESS_731114,223,0.45,28,White,Not Hispanic or Latino
-ACCESS_731114,286,0.23,28,White,Not Hispanic or Latino
-ACCESS_731114,308,0.2,28,White,Not Hispanic or Latino
-ACCESS_731114,335,0.16,28,White,Not Hispanic or Latino
-ACCESS_731114,707,0.15,28,White,Not Hispanic or Latino
-ACCESS_744305,0,3.51,33,White,Hispanic or Latino
-ACCESS_744305,14,1.66,33,White,Hispanic or Latino
-ACCESS_744305,29,2.72,33,White,Hispanic or Latino
-ACCESS_744305,42,1.75,33,White,Hispanic or Latino
-ACCESS_744305,57,1.48,33,White,Hispanic or Latino
-ACCESS_744305,70,0.57,33,White,Hispanic or Latino
-ACCESS_744305,112,0.82,33,White,Hispanic or Latino
-ACCESS_744305,141,0.85,33,White,Hispanic or Latino
-ACCESS_744305,196,0.32,33,White,Hispanic or Latino
-ACCESS_744305,224,0.55,33,White,Hispanic or Latino
-ACCESS_744305,280,0.78,33,White,Hispanic or Latino
-ACCESS_744305,308,0.41,33,White,Hispanic or Latino
-ACCESS_744305,336,0.37,33,White,Hispanic or Latino
-ACCESS_744305,727,2.22,33,White,Hispanic or Latino
-ACCESS_766786,-13,4.64,27,Black,Not Hispanic or Latino
-ACCESS_766786,0,3.84,27,Black,Not Hispanic or Latino
-ACCESS_766786,14,1.98,27,Black,Not Hispanic or Latino
-ACCESS_766786,28,2.4,27,Black,Not Hispanic or Latino
-ACCESS_766786,44,2.23,27,Black,Not Hispanic or Latino
-ACCESS_766786,56,1.02,27,Black,Not Hispanic or Latino
-ACCESS_766786,70,0.7,27,Black,Not Hispanic or Latino
-ACCESS_766786,106,1,27,Black,Not Hispanic or Latino
-ACCESS_766786,142,0.41,27,Black,Not Hispanic or Latino
-ACCESS_766786,198,0.86,27,Black,Not Hispanic or Latino
-ACCESS_766786,226,0.75,27,Black,Not Hispanic or Latino
-ACCESS_766786,283,2.25,27,Black,Not Hispanic or Latino
-ACCESS_766786,314,1.97,27,Black,Not Hispanic or Latino
-ACCESS_766786,338,2.24,27,Black,Not Hispanic or Latino
-ACCESS_766786,372,2.82,27,Black,Not Hispanic or Latino
-ACCESS_766786,402,2.2,27,Black,Not Hispanic or Latino
-ACCESS_771631,-9,1.07,31,Black,Not Hispanic or Latino
-ACCESS_771631,0,0.89,31,Black,Not Hispanic or Latino
-ACCESS_771631,12,0.27,31,Black,Not Hispanic or Latino
-ACCESS_771631,26,0.25,31,Black,Not Hispanic or Latino
-ACCESS_771631,40,0.09,31,Black,Not Hispanic or Latino
-ACCESS_771631,54,0.19,31,Black,Not Hispanic or Latino
-ACCESS_771631,68,0.16,31,Black,Not Hispanic or Latino
-ACCESS_771631,110,0.09,31,Black,Not Hispanic or Latino
-ACCESS_771631,138,0.06,31,Black,Not Hispanic or Latino
-ACCESS_771631,194,0.07,31,Black,Not Hispanic or Latino
-ACCESS_771631,222,0.07,31,Black,Not Hispanic or Latino
-ACCESS_771631,278,2.72,31,Black,Not Hispanic or Latino
-ACCESS_771631,301,0.06,31,Black,Not Hispanic or Latino
-ACCESS_771631,341,0.07,31,Black,Not Hispanic or Latino
-ACCESS_771631,731,0.05,31,Black,Not Hispanic or Latino
-ACCESS_784803,0,1.46,24,Black,Not Hispanic or Latino
-ACCESS_784803,15,1.1,24,Black,Not Hispanic or Latino
-ACCESS_784803,30,0.5,24,Black,Not Hispanic or Latino
-ACCESS_784803,43,0.39,24,Black,Not Hispanic or Latino
-ACCESS_784803,56,1,24,Black,Not Hispanic or Latino
-ACCESS_784803,72,0.71,24,Black,Not Hispanic or Latino
-ACCESS_784803,112,0.56,24,Black,Not Hispanic or Latino
-ACCESS_784803,133,0.48,24,Black,Not Hispanic or Latino
-ACCESS_784803,168,0.73,24,Black,Not Hispanic or Latino
-ACCESS_784803,197,0.39,24,Black,Not Hispanic or Latino
-ACCESS_784803,225,0.36,24,Black,Not Hispanic or Latino
-ACCESS_784803,252,0.4,24,Black,Not Hispanic or Latino
-ACCESS_784803,280,0.41,24,Black,Not Hispanic or Latino
-ACCESS_784803,308,0.2,24,Black,Not Hispanic or Latino
-ACCESS_784803,357,0.33,24,Black,Not Hispanic or Latino
-ACCESS_784803,735,2.71,24,Black,Not Hispanic or Latino
-ACCESS_796140,-7,2.61,22,Black,Not Hispanic or Latino
-ACCESS_796140,0,0.36,22,Black,Not Hispanic or Latino
-ACCESS_796140,16,0.37,22,Black,Not Hispanic or Latino
-ACCESS_796140,28,0.21,22,Black,Not Hispanic or Latino
-ACCESS_796140,42,0.47,22,Black,Not Hispanic or Latino
-ACCESS_796140,56,0.41,22,Black,Not Hispanic or Latino
-ACCESS_796140,70,0.25,22,Black,Not Hispanic or Latino
-ACCESS_796140,112,0.35,22,Black,Not Hispanic or Latino
-ACCESS_796140,140,0.33,22,Black,Not Hispanic or Latino
-ACCESS_796140,196,0.55,22,Black,Not Hispanic or Latino
-ACCESS_796140,224,0.71,22,Black,Not Hispanic or Latino
-ACCESS_796140,281,1.36,22,Black,Not Hispanic or Latino
-ACCESS_796140,308,1.34,22,Black,Not Hispanic or Latino
-ACCESS_796140,336,1.44,22,Black,Not Hispanic or Latino
-ACCESS_796140,364,1.28,22,Black,Not Hispanic or Latino
-ACCESS_796140,744,0.47,22,Black,Not Hispanic or Latino
-ACCESS_913111,-9,2.9,31,Black,Not Hispanic or Latino
-ACCESS_913111,0,1.9,31,Black,Not Hispanic or Latino
-ACCESS_913111,16,1.09,31,Black,Not Hispanic or Latino
-ACCESS_913111,28,1.75,31,Black,Not Hispanic or Latino
-ACCESS_913111,44,1.48,31,Black,Not Hispanic or Latino
-ACCESS_913111,61,1.03,31,Black,Not Hispanic or Latino
-ACCESS_913111,72,1.01,31,Black,Not Hispanic or Latino
-ACCESS_913111,114,1.95,31,Black,Not Hispanic or Latino
-ACCESS_913111,140,0.66,31,Black,Not Hispanic or Latino
-ACCESS_913111,198,0.8,31,Black,Not Hispanic or Latino
-ACCESS_913111,229,0.67,31,Black,Not Hispanic or Latino
-ACCESS_913111,282,0.8,31,Black,Not Hispanic or Latino
-ACCESS_913111,310,1.04,31,Black,Not Hispanic or Latino
-ACCESS_913111,345,0.59,31,Black,Not Hispanic or Latino
-ACCESS_922208,0,1.03,18,Black,Not Hispanic or Latino
-ACCESS_922208,12,0.26,18,Black,Not Hispanic or Latino
-ACCESS_922208,28,0.09,18,Black,Not Hispanic or Latino
-ACCESS_922208,47,0.07,18,Black,Not Hispanic or Latino
-ACCESS_922208,56,0.07,18,Black,Not Hispanic or Latino
-ACCESS_922208,70,0.11,18,Black,Not Hispanic or Latino
-ACCESS_922208,112,0.05,18,Black,Not Hispanic or Latino
-ACCESS_922208,142,0.05,18,Black,Not Hispanic or Latino
-ACCESS_922208,196,0.07,18,Black,Not Hispanic or Latino
-ACCESS_922208,233,0.08,18,Black,Not Hispanic or Latino
-ACCESS_922208,280,0.04,18,Black,Not Hispanic or Latino
-ACCESS_922208,308,0.06,18,Black,Not Hispanic or Latino
-ACCESS_922208,336,0.05,18,Black,Not Hispanic or Latino
-ACCESS_922208,765,1.03,18,Black,Not Hispanic or Latino
-ACCESS_933734,0,9.4,35,White,Hispanic or Latino
-ACCESS_933734,15,3.8,35,White,Hispanic or Latino
-ACCESS_933734,29,2.2,35,White,Hispanic or Latino
-ACCESS_933734,43,1.93,35,White,Hispanic or Latino
-ACCESS_933734,57,0.72,35,White,Hispanic or Latino
-ACCESS_933734,71,0.66,35,White,Hispanic or Latino
-ACCESS_933734,113,1.67,35,White,Hispanic or Latino
-ACCESS_933734,141,0.8,35,White,Hispanic or Latino
-ACCESS_933734,197,1.1,35,White,Hispanic or Latino
-ACCESS_933734,225,0.72,35,White,Hispanic or Latino
-ACCESS_933734,281,0.58,35,White,Hispanic or Latino
-ACCESS_933734,314,0.71,35,White,Hispanic or Latino
-ACCESS_933734,335,0.64,35,White,Hispanic or Latino
-ACCESS_933734,736,0.7,35,White,Hispanic or Latino
-ACCESS_941233,0,2.52,27,White,Hispanic or Latino
-ACCESS_941233,14,3.18,27,White,Hispanic or Latino
-ACCESS_941233,30,1,27,White,Hispanic or Latino
-ACCESS_941233,42,1.89,27,White,Hispanic or Latino
-ACCESS_941233,58,0.97,27,White,Hispanic or Latino
-ACCESS_941233,70,1.33,27,White,Hispanic or Latino
-ACCESS_941233,112,0.83,27,White,Hispanic or Latino
-ACCESS_941233,140,0.78,27,White,Hispanic or Latino
-ACCESS_941233,196,0.94,27,White,Hispanic or Latino
-ACCESS_941233,224,0.55,27,White,Hispanic or Latino
-ACCESS_941233,280,0.78,27,White,Hispanic or Latino
-ACCESS_941233,308,0.44,27,White,Hispanic or Latino
-ACCESS_941233,336,0.45,27,White,Hispanic or Latino
-ACCESS_941233,730,0.17,27,White,Hispanic or Latino
-ACCESS_943153,0,1.31,52,Black,Not Hispanic or Latino
-ACCESS_943153,14,0.89,52,Black,Not Hispanic or Latino
-ACCESS_943153,28,0.51,52,Black,Not Hispanic or Latino
-ACCESS_943153,41,0.21,52,Black,Not Hispanic or Latino
-ACCESS_943153,56,0.16,52,Black,Not Hispanic or Latino
-ACCESS_943153,76,0.56,52,Black,Not Hispanic or Latino
-ACCESS_943153,116,0.39,52,Black,Not Hispanic or Latino
-ACCESS_943153,144,0.5,52,Black,Not Hispanic or Latino
-ACCESS_943153,199,0.85,52,Black,Not Hispanic or Latino
-ACCESS_943153,224,0.46,52,Black,Not Hispanic or Latino
-ACCESS_943153,284,0.1,52,Black,Not Hispanic or Latino
-ACCESS_943153,312,0.29,52,Black,Not Hispanic or Latino
-ACCESS_943153,340,0.69,52,Black,Not Hispanic or Latino
-ACCESS_943153,748,0.3,52,Black,Not Hispanic or Latino
-ACCESS_959492,0,6.82,29,Black,Not Hispanic or Latino
-ACCESS_959492,14,5.06,29,Black,Not Hispanic or Latino
-ACCESS_959492,28,3.69,29,Black,Not Hispanic or Latino
-ACCESS_959492,43,3.1,29,Black,Not Hispanic or Latino
-ACCESS_959492,56,4.63,29,Black,Not Hispanic or Latino
-ACCESS_959492,70,4.16,29,Black,Not Hispanic or Latino
-ACCESS_959492,85,4.19,29,Black,Not Hispanic or Latino
-ACCESS_959492,107,2.4,29,Black,Not Hispanic or Latino
-ACCESS_959492,139,4.5,29,Black,Not Hispanic or Latino
-ACCESS_959492,198,2.21,29,Black,Not Hispanic or Latino
-ACCESS_959492,230,0.87,29,Black,Not Hispanic or Latino
-ACCESS_959492,287,2.38,29,Black,Not Hispanic or Latino
-ACCESS_959492,310,1.28,29,Black,Not Hispanic or Latino
-ACCESS_959492,338,1.75,29,Black,Not Hispanic or Latino
-ACCESS_959492,758,3.72,29,Black,Not Hispanic or Latino
-ACCESS_966565,-20,1.01,29,Black,Hispanic or Latino
-ACCESS_966565,27,0.16,29,Black,Hispanic or Latino
-ACCESS_966565,41,0.11,29,Black,Hispanic or Latino
-ACCESS_966565,57,0.11,29,Black,Hispanic or Latino
-ACCESS_966565,71,0.1,29,Black,Hispanic or Latino
-ACCESS_966565,85,0.1,29,Black,Hispanic or Latino
-ACCESS_966565,113,0.09,29,Black,Hispanic or Latino
-ACCESS_966565,147,0.08,29,Black,Hispanic or Latino
-ACCESS_966565,171,0.07,29,Black,Hispanic or Latino
-ACCESS_966565,191,0.06,29,Black,Hispanic or Latino
-ACCESS_966565,217,0.12,29,Black,Hispanic or Latino
-ACCESS_966565,287,0.06,29,Black,Hispanic or Latino
-ACCESS_966565,309,0.07,29,Black,Hispanic or Latino
-ACCESS_966565,330,0.06,29,Black,Hispanic or Latino
-ACCESS_966565,372,0.05,29,Black,Hispanic or Latino
-ACCESS_966565,749,0.05,29,Black,Hispanic or Latino
+ID,day,uPCR,Age (years),Race,Ethnicity,group
+ACCESS_121249,-21,1.98,51,White,Not Hispanic or Latino,Placebo
+ACCESS_121249,14,0.47,51,White,Not Hispanic or Latino,Placebo
+ACCESS_121249,28,0.22,51,White,Not Hispanic or Latino,Placebo
+ACCESS_121249,40,0.32,51,White,Not Hispanic or Latino,Placebo
+ACCESS_121249,68,0.36,51,White,Not Hispanic or Latino,Placebo
+ACCESS_121249,82,1.41,51,White,Not Hispanic or Latino,Placebo
+ACCESS_121249,119,1.48,51,White,Not Hispanic or Latino,Placebo
+ACCESS_121249,133,1.86,51,White,Not Hispanic or Latino,Placebo
+ACCESS_121249,168,0.7,51,White,Not Hispanic or Latino,Placebo
+ACCESS_121249,194,0.23,51,White,Not Hispanic or Latino,Placebo
+ACCESS_121249,222,0.24,51,White,Not Hispanic or Latino,Placebo
+ACCESS_121249,253,0.43,51,White,Not Hispanic or Latino,Placebo
+ACCESS_121249,285,0.2,51,White,Not Hispanic or Latino,Placebo
+ACCESS_121249,302,0.13,51,White,Not Hispanic or Latino,Placebo
+ACCESS_121249,341,0.31,51,White,Not Hispanic or Latino,Placebo
+ACCESS_121249,362,0.44,51,White,Not Hispanic or Latino,Placebo
+ACCESS_121249,90,0.92,51,White,Not Hispanic or Latino,Placebo
+ACCESS_145616,-13,9.22,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,0,7.61,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,14,5.51,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,28,6.53,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,42,2.88,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,56,3.22,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,68,1.64,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,82,2.57,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,112,1.57,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,140,1.03,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,175,1.34,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,203,0.73,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,230,0.64,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,258,1.37,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,285,1.07,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,313,1.34,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,341,2.07,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,371,3.36,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_145616,789,6.62,20,White,Not Hispanic or Latino,Abatacept
+ACCESS_146963,-14,2.26,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_146963,0,1.79,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_146963,17,1.34,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_146963,30,1.02,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_146963,42,0.49,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_146963,56,0.53,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_146963,70,0.94,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_146963,112,0.13,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_146963,148,0.13,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_146963,199,0.09,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_146963,231,0.11,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_146963,254,0.09,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_146963,280,0.18,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_146963,309,0.14,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_146963,338,0.11,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_168120,0,2.72,55,White,Not Hispanic or Latino,Abatacept
+ACCESS_168120,14,2.67,55,White,Not Hispanic or Latino,Abatacept
+ACCESS_168120,28,2.56,55,White,Not Hispanic or Latino,Abatacept
+ACCESS_168120,42,3.73,55,White,Not Hispanic or Latino,Abatacept
+ACCESS_168120,57,0.67,55,White,Not Hispanic or Latino,Abatacept
+ACCESS_168120,71,0.15,55,White,Not Hispanic or Latino,Abatacept
+ACCESS_168120,112,0.08,55,White,Not Hispanic or Latino,Abatacept
+ACCESS_168120,141,0.24,55,White,Not Hispanic or Latino,Abatacept
+ACCESS_168120,199,0.08,55,White,Not Hispanic or Latino,Abatacept
+ACCESS_168120,224,0.09,55,White,Not Hispanic or Latino,Abatacept
+ACCESS_168120,252,0.25,55,White,Not Hispanic or Latino,Abatacept
+ACCESS_168120,308,0.06,55,White,Not Hispanic or Latino,Abatacept
+ACCESS_168120,336,0.06,55,White,Not Hispanic or Latino,Abatacept
+ACCESS_168120,728,0.21,55,White,Not Hispanic or Latino,Abatacept
+ACCESS_207331,0,0.8,59,White,Not Hispanic or Latino,Abatacept
+ACCESS_207331,40,1.37,59,White,Not Hispanic or Latino,Abatacept
+ACCESS_207331,54,0.48,59,White,Not Hispanic or Latino,Abatacept
+ACCESS_207331,68,1.18,59,White,Not Hispanic or Latino,Abatacept
+ACCESS_207331,82,2.06,59,White,Not Hispanic or Latino,Abatacept
+ACCESS_207331,110,1.38,59,White,Not Hispanic or Latino,Abatacept
+ACCESS_207331,140,1.72,59,White,Not Hispanic or Latino,Abatacept
+ACCESS_207331,168,1.13,59,White,Not Hispanic or Latino,Abatacept
+ACCESS_207331,201,0.92,59,White,Not Hispanic or Latino,Abatacept
+ACCESS_207331,229,0.73,59,White,Not Hispanic or Latino,Abatacept
+ACCESS_207331,252,0.78,59,White,Not Hispanic or Latino,Abatacept
+ACCESS_207331,285,0.63,59,White,Not Hispanic or Latino,Abatacept
+ACCESS_207331,308,0.24,59,White,Not Hispanic or Latino,Abatacept
+ACCESS_207331,341,0.34,59,White,Not Hispanic or Latino,Abatacept
+ACCESS_207331,364,0.19,59,White,Not Hispanic or Latino,Abatacept
+ACCESS_207331,756,0.05,59,White,Not Hispanic or Latino,Abatacept
+ACCESS_220193,-3,1.64,38,Black,Not Hispanic or Latino,Abatacept
+ACCESS_220193,0,1.38,38,Black,Not Hispanic or Latino,Abatacept
+ACCESS_220193,11,0.81,38,Black,Not Hispanic or Latino,Abatacept
+ACCESS_220193,25,0.46,38,Black,Not Hispanic or Latino,Abatacept
+ACCESS_220193,41,0.32,38,Black,Not Hispanic or Latino,Abatacept
+ACCESS_220193,60,0.33,38,Black,Not Hispanic or Latino,Abatacept
+ACCESS_220193,73,0.21,38,Black,Not Hispanic or Latino,Abatacept
+ACCESS_220193,83,0.29,38,Black,Not Hispanic or Latino,Abatacept
+ACCESS_220193,111,0.31,38,Black,Not Hispanic or Latino,Abatacept
+ACCESS_220193,146,0.5,38,Black,Not Hispanic or Latino,Abatacept
+ACCESS_220193,172,0.82,38,Black,Not Hispanic or Latino,Abatacept
+ACCESS_220193,196,0.71,38,Black,Not Hispanic or Latino,Abatacept
+ACCESS_220193,55,0.36,38,Black,Not Hispanic or Latino,Abatacept
+ACCESS_220193,66,0.33,38,Black,Not Hispanic or Latino,Abatacept
+ACCESS_228482,-14,1.58,25,White,Not Hispanic or Latino,Placebo
+ACCESS_228482,0,0.7,25,White,Not Hispanic or Latino,Placebo
+ACCESS_228482,16,1.83,25,White,Not Hispanic or Latino,Placebo
+ACCESS_228482,28,0.46,25,White,Not Hispanic or Latino,Placebo
+ACCESS_228482,42,1.41,25,White,Not Hispanic or Latino,Placebo
+ACCESS_228482,56,1.28,25,White,Not Hispanic or Latino,Placebo
+ACCESS_228482,77,0.72,25,White,Not Hispanic or Latino,Placebo
+ACCESS_228482,112,0.36,25,White,Not Hispanic or Latino,Placebo
+ACCESS_228482,140,0.21,25,White,Not Hispanic or Latino,Placebo
+ACCESS_228482,196,0.33,25,White,Not Hispanic or Latino,Placebo
+ACCESS_228482,224,0.21,25,White,Not Hispanic or Latino,Placebo
+ACCESS_228482,280,0.3,25,White,Not Hispanic or Latino,Placebo
+ACCESS_228482,308,0.45,25,White,Not Hispanic or Latino,Placebo
+ACCESS_228482,336,0.32,25,White,Not Hispanic or Latino,Placebo
+ACCESS_228482,728,0.17,25,White,Not Hispanic or Latino,Placebo
+ACCESS_240896,0,4.16,25,White,Not Hispanic or Latino,Placebo
+ACCESS_240896,14,1.77,25,White,Not Hispanic or Latino,Placebo
+ACCESS_240896,28,4.12,25,White,Not Hispanic or Latino,Placebo
+ACCESS_240896,42,3.74,25,White,Not Hispanic or Latino,Placebo
+ACCESS_240896,56,1.07,25,White,Not Hispanic or Latino,Placebo
+ACCESS_240896,72,2.63,25,White,Not Hispanic or Latino,Placebo
+ACCESS_240896,112,0.66,25,White,Not Hispanic or Latino,Placebo
+ACCESS_240896,140,0.37,25,White,Not Hispanic or Latino,Placebo
+ACCESS_240896,202,0.18,25,White,Not Hispanic or Latino,Placebo
+ACCESS_240896,224,0.3,25,White,Not Hispanic or Latino,Placebo
+ACCESS_240896,285,0.24,25,White,Not Hispanic or Latino,Placebo
+ACCESS_240896,308,0.11,25,White,Not Hispanic or Latino,Placebo
+ACCESS_240896,335,0.1,25,White,Not Hispanic or Latino,Placebo
+ACCESS_240896,719,0.09,25,White,Not Hispanic or Latino,Placebo
+ACCESS_248873,-14,5.17,33,White,Hispanic or Latino,Placebo
+ACCESS_248873,0,3.17,33,White,Hispanic or Latino,Placebo
+ACCESS_248873,14,3.49,33,White,Hispanic or Latino,Placebo
+ACCESS_248873,28,3.61,33,White,Hispanic or Latino,Placebo
+ACCESS_248873,42,3.51,33,White,Hispanic or Latino,Placebo
+ACCESS_248873,56,2.21,33,White,Hispanic or Latino,Placebo
+ACCESS_248873,72,1.75,33,White,Hispanic or Latino,Placebo
+ACCESS_248873,112,1.03,33,White,Hispanic or Latino,Placebo
+ACCESS_248873,140,1.45,33,White,Hispanic or Latino,Placebo
+ACCESS_248873,196,1.19,33,White,Hispanic or Latino,Placebo
+ACCESS_248873,224,0.92,33,White,Hispanic or Latino,Placebo
+ACCESS_248873,281,0.24,33,White,Hispanic or Latino,Placebo
+ACCESS_248873,308,0.14,33,White,Hispanic or Latino,Placebo
+ACCESS_248873,337,0.57,33,White,Hispanic or Latino,Placebo
+ACCESS_248873,368,0.16,33,White,Hispanic or Latino,Placebo
+ACCESS_248873,729,0.29,33,White,Hispanic or Latino,Placebo
+ACCESS_256457,0,3.18,47,White,Hispanic or Latino,Placebo
+ACCESS_256457,15,2.55,47,White,Hispanic or Latino,Placebo
+ACCESS_256457,29,1.82,47,White,Hispanic or Latino,Placebo
+ACCESS_256457,43,1.77,47,White,Hispanic or Latino,Placebo
+ACCESS_256457,58,0.54,47,White,Hispanic or Latino,Placebo
+ACCESS_256457,71,1.15,47,White,Hispanic or Latino,Placebo
+ACCESS_256457,107,0.69,47,White,Hispanic or Latino,Placebo
+ACCESS_256457,141,0.24,47,White,Hispanic or Latino,Placebo
+ACCESS_256457,197,0.28,47,White,Hispanic or Latino,Placebo
+ACCESS_256457,223,0.3,47,White,Hispanic or Latino,Placebo
+ACCESS_256457,281,0.28,47,White,Hispanic or Latino,Placebo
+ACCESS_256457,309,0.17,47,White,Hispanic or Latino,Placebo
+ACCESS_256457,337,0.72,47,White,Hispanic or Latino,Placebo
+ACCESS_256457,758,0.08,47,White,Hispanic or Latino,Placebo
+ACCESS_256457,183,0.21,47,White,Hispanic or Latino,Placebo
+ACCESS_279134,0,1.32,32,Black,Not Hispanic or Latino,Abatacept
+ACCESS_279134,14,1.97,32,Black,Not Hispanic or Latino,Abatacept
+ACCESS_279134,28,1.13,32,Black,Not Hispanic or Latino,Abatacept
+ACCESS_279134,44,0.71,32,Black,Not Hispanic or Latino,Abatacept
+ACCESS_279134,56,1.71,32,Black,Not Hispanic or Latino,Abatacept
+ACCESS_279134,70,2.34,32,Black,Not Hispanic or Latino,Abatacept
+ACCESS_279134,114,1.56,32,Black,Not Hispanic or Latino,Abatacept
+ACCESS_279134,146,2.2,32,Black,Not Hispanic or Latino,Abatacept
+ACCESS_279134,202,1.03,32,Black,Not Hispanic or Latino,Abatacept
+ACCESS_279134,226,0.28,32,Black,Not Hispanic or Latino,Abatacept
+ACCESS_279134,282,0.49,32,Black,Not Hispanic or Latino,Abatacept
+ACCESS_279134,317,0.89,32,Black,Not Hispanic or Latino,Abatacept
+ACCESS_279134,338,0.77,32,Black,Not Hispanic or Latino,Abatacept
+ACCESS_279134,744,0.1,32,Black,Not Hispanic or Latino,Abatacept
+ACCESS_294996,-7,5.9,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_294996,0,6.24,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_294996,14,3.28,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_294996,28,2.01,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_294996,42,1.2,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_294996,56,2.46,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_294996,70,4.6,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_294996,112,2.59,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_294996,140,1.56,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_294996,196,1.62,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_294996,224,2.19,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_294996,280,2.85,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_294996,308,1.64,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_294996,338,0.76,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_294996,721,0.66,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_298381,0,2.63,35,White,Hispanic or Latino,Abatacept
+ACCESS_298381,15,3.56,35,White,Hispanic or Latino,Abatacept
+ACCESS_298381,28,1.09,35,White,Hispanic or Latino,Abatacept
+ACCESS_298381,42,0.5,35,White,Hispanic or Latino,Abatacept
+ACCESS_298381,56,0.26,35,White,Hispanic or Latino,Abatacept
+ACCESS_298381,70,5.62,35,White,Hispanic or Latino,Abatacept
+ACCESS_298381,84,0.22,35,White,Hispanic or Latino,Abatacept
+ACCESS_298381,112,0.19,35,White,Hispanic or Latino,Abatacept
+ACCESS_298381,140,0.13,35,White,Hispanic or Latino,Abatacept
+ACCESS_298381,191,0.13,35,White,Hispanic or Latino,Abatacept
+ACCESS_298381,217,0.22,35,White,Hispanic or Latino,Abatacept
+ACCESS_298381,274,0.35,35,White,Hispanic or Latino,Abatacept
+ACCESS_298381,313,0.26,35,White,Hispanic or Latino,Abatacept
+ACCESS_298381,335,0.36,35,White,Hispanic or Latino,Abatacept
+ACCESS_298381,757,3.58,35,White,Hispanic or Latino,Abatacept
+ACCESS_323258,0,3.18,36,White,Not Hispanic or Latino,Placebo
+ACCESS_323258,14,2.33,36,White,Not Hispanic or Latino,Placebo
+ACCESS_323258,28,2.31,36,White,Not Hispanic or Latino,Placebo
+ACCESS_323258,42,2.34,36,White,Not Hispanic or Latino,Placebo
+ACCESS_323258,56,1.29,36,White,Not Hispanic or Latino,Placebo
+ACCESS_323258,70,1.65,36,White,Not Hispanic or Latino,Placebo
+ACCESS_323258,112,0.32,36,White,Not Hispanic or Latino,Placebo
+ACCESS_323258,140,0.24,36,White,Not Hispanic or Latino,Placebo
+ACCESS_323258,203,0.14,36,White,Not Hispanic or Latino,Placebo
+ACCESS_323258,224,0.14,36,White,Not Hispanic or Latino,Placebo
+ACCESS_323258,282,0.29,36,White,Not Hispanic or Latino,Placebo
+ACCESS_323258,310,0.29,36,White,Not Hispanic or Latino,Placebo
+ACCESS_323258,336,0.22,36,White,Not Hispanic or Latino,Placebo
+ACCESS_323258,735,0.2,36,White,Not Hispanic or Latino,Placebo
+ACCESS_352047,0,4.92,48,Black,Not Hispanic or Latino,Placebo
+ACCESS_352047,20,2.21,48,Black,Not Hispanic or Latino,Placebo
+ACCESS_352047,35,3.68,48,Black,Not Hispanic or Latino,Placebo
+ACCESS_352047,48,3.87,48,Black,Not Hispanic or Latino,Placebo
+ACCESS_352047,61,2.91,48,Black,Not Hispanic or Latino,Placebo
+ACCESS_352047,71,3.87,48,Black,Not Hispanic or Latino,Placebo
+ACCESS_352047,112,0.75,48,Black,Not Hispanic or Latino,Placebo
+ACCESS_352047,140,0.37,48,Black,Not Hispanic or Latino,Placebo
+ACCESS_352047,195,0.19,48,Black,Not Hispanic or Latino,Placebo
+ACCESS_352047,223,0.31,48,Black,Not Hispanic or Latino,Placebo
+ACCESS_352047,274,0.3,48,Black,Not Hispanic or Latino,Placebo
+ACCESS_352047,302,0.25,48,Black,Not Hispanic or Latino,Placebo
+ACCESS_352047,342,0.07,48,Black,Not Hispanic or Latino,Placebo
+ACCESS_352047,363,0.18,48,Black,Not Hispanic or Latino,Placebo
+ACCESS_352047,720,0.3,48,Black,Not Hispanic or Latino,Placebo
+ACCESS_362847,0,3.5,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_362847,12,3.94,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_362847,28,1.33,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_362847,42,0.2,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_362847,56,0.45,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_362847,70,0.12,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_362847,112,0.91,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_362847,140,0.06,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_362847,196,0.21,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_362847,224,0.08,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_362847,280,0.05,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_362847,308,0.05,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_362847,334,0.13,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_362847,726,0.21,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_366444,-12,3.51,27,White,Hispanic or Latino,Abatacept
+ACCESS_366444,0,2.46,27,White,Hispanic or Latino,Abatacept
+ACCESS_366444,14,1.25,27,White,Hispanic or Latino,Abatacept
+ACCESS_366444,35,2.42,27,White,Hispanic or Latino,Abatacept
+ACCESS_366444,52,0.86,27,White,Hispanic or Latino,Abatacept
+ACCESS_366444,66,0.79,27,White,Hispanic or Latino,Abatacept
+ACCESS_366444,80,0.61,27,White,Hispanic or Latino,Abatacept
+ACCESS_366444,122,0.51,27,White,Hispanic or Latino,Abatacept
+ACCESS_366444,143,0.53,27,White,Hispanic or Latino,Abatacept
+ACCESS_366444,192,0.43,27,White,Hispanic or Latino,Abatacept
+ACCESS_366444,219,0.48,27,White,Hispanic or Latino,Abatacept
+ACCESS_366444,283,0.52,27,White,Hispanic or Latino,Abatacept
+ACCESS_366444,311,0.69,27,White,Hispanic or Latino,Abatacept
+ACCESS_366444,339,0.72,27,White,Hispanic or Latino,Abatacept
+ACCESS_366444,734,0.45,27,White,Hispanic or Latino,Abatacept
+ACCESS_381640,-8,1.85,54,Black,Not Hispanic or Latino,Placebo
+ACCESS_381640,0,1.45,54,Black,Not Hispanic or Latino,Placebo
+ACCESS_381640,13,1.13,54,Black,Not Hispanic or Latino,Placebo
+ACCESS_381640,27,0.95,54,Black,Not Hispanic or Latino,Placebo
+ACCESS_381640,41,0.89,54,Black,Not Hispanic or Latino,Placebo
+ACCESS_381640,55,0.73,54,Black,Not Hispanic or Latino,Placebo
+ACCESS_381640,69,0.82,54,Black,Not Hispanic or Latino,Placebo
+ACCESS_381640,111,0.59,54,Black,Not Hispanic or Latino,Placebo
+ACCESS_381640,138,0.19,54,Black,Not Hispanic or Latino,Placebo
+ACCESS_381640,195,0.28,54,Black,Not Hispanic or Latino,Placebo
+ACCESS_381640,223,0.2,54,Black,Not Hispanic or Latino,Placebo
+ACCESS_381640,279,0.32,54,Black,Not Hispanic or Latino,Placebo
+ACCESS_381640,302,0.16,54,Black,Not Hispanic or Latino,Placebo
+ACCESS_381640,336,0.12,54,Black,Not Hispanic or Latino,Placebo
+ACCESS_381640,740,0.19,54,Black,Not Hispanic or Latino,Placebo
+ACCESS_393472,0,0.16,25,White,Not Hispanic or Latino,Placebo
+ACCESS_393472,14,0.84,25,White,Not Hispanic or Latino,Placebo
+ACCESS_393472,30,0.31,25,White,Not Hispanic or Latino,Placebo
+ACCESS_393472,44,0.24,25,White,Not Hispanic or Latino,Placebo
+ACCESS_393472,56,0.15,25,White,Not Hispanic or Latino,Placebo
+ACCESS_393472,70,0.32,25,White,Not Hispanic or Latino,Placebo
+ACCESS_393472,114,0.22,25,White,Not Hispanic or Latino,Placebo
+ACCESS_393472,140,0.07,25,White,Not Hispanic or Latino,Placebo
+ACCESS_393472,170,0.56,25,White,Not Hispanic or Latino,Placebo
+ACCESS_393472,191,0.79,25,White,Not Hispanic or Latino,Placebo
+ACCESS_393472,226,0.88,25,White,Not Hispanic or Latino,Placebo
+ACCESS_393472,282,1.64,25,White,Not Hispanic or Latino,Placebo
+ACCESS_393472,310,1.05,25,White,Not Hispanic or Latino,Placebo
+ACCESS_393472,338,1.22,25,White,Not Hispanic or Latino,Placebo
+ACCESS_393472,723,1.14,25,White,Not Hispanic or Latino,Placebo
+ACCESS_455644,0,12.79,42,White,Hispanic or Latino,Abatacept
+ACCESS_455644,14,5.16,42,White,Hispanic or Latino,Abatacept
+ACCESS_455644,28,6.47,42,White,Hispanic or Latino,Abatacept
+ACCESS_455644,44,2.2,42,White,Hispanic or Latino,Abatacept
+ACCESS_455644,58,1.54,42,White,Hispanic or Latino,Abatacept
+ACCESS_455644,70,3.4,42,White,Hispanic or Latino,Abatacept
+ACCESS_455644,86,3.54,42,White,Hispanic or Latino,Abatacept
+ACCESS_455644,114,4.06,42,White,Hispanic or Latino,Abatacept
+ACCESS_455644,142,2.17,42,White,Hispanic or Latino,Abatacept
+ACCESS_455644,191,0.46,42,White,Hispanic or Latino,Abatacept
+ACCESS_455644,226,0.33,42,White,Hispanic or Latino,Abatacept
+ACCESS_455644,282,0.44,42,White,Hispanic or Latino,Abatacept
+ACCESS_455644,310,0.6,42,White,Hispanic or Latino,Abatacept
+ACCESS_455644,338,0.55,42,White,Hispanic or Latino,Abatacept
+ACCESS_455644,840,0.06,42,White,Hispanic or Latino,Abatacept
+ACCESS_482606,0,11.55,28,White,Hispanic or Latino,Placebo
+ACCESS_482606,14,3.57,28,White,Hispanic or Latino,Placebo
+ACCESS_482606,28,4.43,28,White,Hispanic or Latino,Placebo
+ACCESS_482606,42,3.64,28,White,Hispanic or Latino,Placebo
+ACCESS_482606,56,3.59,28,White,Hispanic or Latino,Placebo
+ACCESS_482606,70,3.38,28,White,Hispanic or Latino,Placebo
+ACCESS_482606,112,1.79,28,White,Hispanic or Latino,Placebo
+ACCESS_482606,140,0.42,28,White,Hispanic or Latino,Placebo
+ACCESS_482606,196,0.24,28,White,Hispanic or Latino,Placebo
+ACCESS_482606,231,0.24,28,White,Hispanic or Latino,Placebo
+ACCESS_482606,280,0.52,28,White,Hispanic or Latino,Placebo
+ACCESS_482606,306,0.15,28,White,Hispanic or Latino,Placebo
+ACCESS_482606,334,0.12,28,White,Hispanic or Latino,Placebo
+ACCESS_482606,805,7.62,28,White,Hispanic or Latino,Placebo
+ACCESS_510271,0,3.32,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_510271,13,1.34,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_510271,28,0.27,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_510271,41,0.52,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_510271,54,0.16,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_510271,68,0.21,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_510271,111,0.21,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_510271,138,0.33,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_510271,200,0.19,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_510271,217,0.18,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_510271,279,0.14,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_510271,306,0.2,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_510271,348,0.3,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_510271,734,0.29,34,White,Not Hispanic or Latino,Abatacept
+ACCESS_571233,0,8.14,30,Black,Not Hispanic or Latino,Placebo
+ACCESS_571233,17,4.53,30,Black,Not Hispanic or Latino,Placebo
+ACCESS_571233,29,4.25,30,Black,Not Hispanic or Latino,Placebo
+ACCESS_571233,43,6.6,30,Black,Not Hispanic or Latino,Placebo
+ACCESS_571233,57,1.83,30,Black,Not Hispanic or Latino,Placebo
+ACCESS_571233,71,2.29,30,Black,Not Hispanic or Latino,Placebo
+ACCESS_571233,113,2.36,30,Black,Not Hispanic or Latino,Placebo
+ACCESS_571233,148,2.91,30,Black,Not Hispanic or Latino,Placebo
+ACCESS_571233,203,2.21,30,Black,Not Hispanic or Latino,Placebo
+ACCESS_571233,225,2.71,30,Black,Not Hispanic or Latino,Placebo
+ACCESS_571233,256,2.06,30,Black,Not Hispanic or Latino,Placebo
+ACCESS_571233,317,1.52,30,Black,Not Hispanic or Latino,Placebo
+ACCESS_571233,343,1.38,30,Black,Not Hispanic or Latino,Placebo
+ACCESS_571233,745,1.07,30,Black,Not Hispanic or Latino,Placebo
+ACCESS_604457,0,0.81,37,White,Hispanic or Latino,Placebo
+ACCESS_604457,16,0.34,37,White,Hispanic or Latino,Placebo
+ACCESS_604457,30,0.19,37,White,Hispanic or Latino,Placebo
+ACCESS_604457,43,0.13,37,White,Hispanic or Latino,Placebo
+ACCESS_604457,58,0.12,37,White,Hispanic or Latino,Placebo
+ACCESS_604457,71,0.15,37,White,Hispanic or Latino,Placebo
+ACCESS_604457,113,0.15,37,White,Hispanic or Latino,Placebo
+ACCESS_604457,141,0.11,37,White,Hispanic or Latino,Placebo
+ACCESS_604457,198,0.12,37,White,Hispanic or Latino,Placebo
+ACCESS_604457,226,0.17,37,White,Hispanic or Latino,Placebo
+ACCESS_604457,280,0.11,37,White,Hispanic or Latino,Placebo
+ACCESS_604457,308,0.09,37,White,Hispanic or Latino,Placebo
+ACCESS_604457,337,0.06,37,White,Hispanic or Latino,Placebo
+ACCESS_604457,784,0.1,37,White,Hispanic or Latino,Placebo
+ACCESS_608354,0,17.25,22,White,Not Hispanic or Latino,Placebo
+ACCESS_608354,14,11.08,22,White,Not Hispanic or Latino,Placebo
+ACCESS_608354,27,4.86,22,White,Not Hispanic or Latino,Placebo
+ACCESS_608354,42,5.2,22,White,Not Hispanic or Latino,Placebo
+ACCESS_608354,56,3.1,22,White,Not Hispanic or Latino,Placebo
+ACCESS_608354,70,3.6,22,White,Not Hispanic or Latino,Placebo
+ACCESS_608354,84,5.27,22,White,Not Hispanic or Latino,Placebo
+ACCESS_608354,111,4.14,22,White,Not Hispanic or Latino,Placebo
+ACCESS_608354,133,3.43,22,White,Not Hispanic or Latino,Placebo
+ACCESS_608354,203,3.42,22,White,Not Hispanic or Latino,Placebo
+ACCESS_608354,222,2.89,22,White,Not Hispanic or Latino,Placebo
+ACCESS_608354,280,4.14,22,White,Not Hispanic or Latino,Placebo
+ACCESS_608354,308,1.23,22,White,Not Hispanic or Latino,Placebo
+ACCESS_608354,329,2.34,22,White,Not Hispanic or Latino,Placebo
+ACCESS_608354,768,9.7,22,White,Not Hispanic or Latino,Placebo
+ACCESS_608552,0,0.41,28,Black,Not Hispanic or Latino,Placebo
+ACCESS_608552,14,0.41,28,Black,Not Hispanic or Latino,Placebo
+ACCESS_608552,28,0.28,28,Black,Not Hispanic or Latino,Placebo
+ACCESS_608552,42,0.27,28,Black,Not Hispanic or Latino,Placebo
+ACCESS_608552,56,0.24,28,Black,Not Hispanic or Latino,Placebo
+ACCESS_608552,79,0.24,28,Black,Not Hispanic or Latino,Placebo
+ACCESS_608552,84,0.2,28,Black,Not Hispanic or Latino,Placebo
+ACCESS_608552,114,0.12,28,Black,Not Hispanic or Latino,Placebo
+ACCESS_608552,140,0.31,28,Black,Not Hispanic or Latino,Placebo
+ACCESS_608552,196,0.1,28,Black,Not Hispanic or Latino,Placebo
+ACCESS_608552,226,0.07,28,Black,Not Hispanic or Latino,Placebo
+ACCESS_608552,280,0.09,28,Black,Not Hispanic or Latino,Placebo
+ACCESS_608552,308,0.1,28,Black,Not Hispanic or Latino,Placebo
+ACCESS_608552,336,0.07,28,Black,Not Hispanic or Latino,Placebo
+ACCESS_608552,770,0.06,28,Black,Not Hispanic or Latino,Placebo
+ACCESS_616543,0,0.52,28,White,Hispanic or Latino,Abatacept
+ACCESS_616543,14,1.9,28,White,Hispanic or Latino,Abatacept
+ACCESS_616543,28,1.94,28,White,Hispanic or Latino,Abatacept
+ACCESS_616543,42,1.54,28,White,Hispanic or Latino,Abatacept
+ACCESS_616543,56,2.8,28,White,Hispanic or Latino,Abatacept
+ACCESS_616543,70,1.17,28,White,Hispanic or Latino,Abatacept
+ACCESS_616543,110,1.97,28,White,Hispanic or Latino,Abatacept
+ACCESS_616543,138,0.47,28,White,Hispanic or Latino,Abatacept
+ACCESS_616543,194,0.99,28,White,Hispanic or Latino,Abatacept
+ACCESS_616543,222,0.9,28,White,Hispanic or Latino,Abatacept
+ACCESS_616543,278,0.52,28,White,Hispanic or Latino,Abatacept
+ACCESS_616543,306,0.35,28,White,Hispanic or Latino,Abatacept
+ACCESS_616543,334,1.48,28,White,Hispanic or Latino,Abatacept
+ACCESS_616543,728,1.2,28,White,Hispanic or Latino,Abatacept
+ACCESS_663410,0,6.01,28,White,Not Hispanic or Latino,Abatacept
+ACCESS_663410,13,4.08,28,White,Not Hispanic or Latino,Abatacept
+ACCESS_663410,28,2.06,28,White,Not Hispanic or Latino,Abatacept
+ACCESS_663410,42,1.5,28,White,Not Hispanic or Latino,Abatacept
+ACCESS_663410,54,2.52,28,White,Not Hispanic or Latino,Abatacept
+ACCESS_663410,70,1.71,28,White,Not Hispanic or Latino,Abatacept
+ACCESS_663410,112,4.1,28,White,Not Hispanic or Latino,Abatacept
+ACCESS_663410,140,2.52,28,White,Not Hispanic or Latino,Abatacept
+ACCESS_663410,196,0.78,28,White,Not Hispanic or Latino,Abatacept
+ACCESS_663410,224,1.47,28,White,Not Hispanic or Latino,Abatacept
+ACCESS_663410,280,0.66,28,White,Not Hispanic or Latino,Abatacept
+ACCESS_663410,308,1,28,White,Not Hispanic or Latino,Abatacept
+ACCESS_663410,336,0.47,28,White,Not Hispanic or Latino,Abatacept
+ACCESS_663410,728,0.26,28,White,Not Hispanic or Latino,Abatacept
+ACCESS_665783,0,10,32,Black,Not Hispanic or Latino,Placebo
+ACCESS_665783,18,11.37,32,Black,Not Hispanic or Latino,Placebo
+ACCESS_665783,32,9.4,32,Black,Not Hispanic or Latino,Placebo
+ACCESS_665783,46,8.94,32,Black,Not Hispanic or Latino,Placebo
+ACCESS_665783,60,6.46,32,Black,Not Hispanic or Latino,Placebo
+ACCESS_665783,75,4.56,32,Black,Not Hispanic or Latino,Placebo
+ACCESS_665783,90,2.28,32,Black,Not Hispanic or Latino,Placebo
+ACCESS_665783,116,1.92,32,Black,Not Hispanic or Latino,Placebo
+ACCESS_665783,138,1.63,32,Black,Not Hispanic or Latino,Placebo
+ACCESS_665783,171,3.32,32,Black,Not Hispanic or Latino,Placebo
+ACCESS_665783,209,5.17,32,Black,Not Hispanic or Latino,Placebo
+ACCESS_665783,230,5.39,32,Black,Not Hispanic or Latino,Placebo
+ACCESS_665783,255,3.42,32,Black,Not Hispanic or Latino,Placebo
+ACCESS_665783,326,6.38,32,Black,Not Hispanic or Latino,Placebo
+ACCESS_665783,424,11.72,32,Black,Not Hispanic or Latino,Placebo
+ACCESS_680322,0,3.45,23,Black,Not Hispanic or Latino,Abatacept
+ACCESS_680322,17,1.43,23,Black,Not Hispanic or Latino,Abatacept
+ACCESS_680322,28,1.58,23,Black,Not Hispanic or Latino,Abatacept
+ACCESS_680322,42,0.64,23,Black,Not Hispanic or Latino,Abatacept
+ACCESS_680322,56,0.67,23,Black,Not Hispanic or Latino,Abatacept
+ACCESS_680322,70,0.83,23,Black,Not Hispanic or Latino,Abatacept
+ACCESS_680322,112,0.76,23,Black,Not Hispanic or Latino,Abatacept
+ACCESS_680322,140,0.22,23,Black,Not Hispanic or Latino,Abatacept
+ACCESS_680322,196,0.45,23,Black,Not Hispanic or Latino,Abatacept
+ACCESS_680322,227,0.36,23,Black,Not Hispanic or Latino,Abatacept
+ACCESS_680322,280,0.45,23,Black,Not Hispanic or Latino,Abatacept
+ACCESS_680322,308,0.29,23,Black,Not Hispanic or Latino,Abatacept
+ACCESS_680322,336,0.17,23,Black,Not Hispanic or Latino,Abatacept
+ACCESS_680322,784,2.3,23,Black,Not Hispanic or Latino,Abatacept
+ACCESS_700421,0,4.4,42,White,Hispanic or Latino,Placebo
+ACCESS_700421,14,2.15,42,White,Hispanic or Latino,Placebo
+ACCESS_700421,28,0.7,42,White,Hispanic or Latino,Placebo
+ACCESS_700421,42,0.34,42,White,Hispanic or Latino,Placebo
+ACCESS_700421,56,0.51,42,White,Hispanic or Latino,Placebo
+ACCESS_700421,70,0.25,42,White,Hispanic or Latino,Placebo
+ACCESS_700421,112,0.17,42,White,Hispanic or Latino,Placebo
+ACCESS_700421,138,0.2,42,White,Hispanic or Latino,Placebo
+ACCESS_700421,194,0.21,42,White,Hispanic or Latino,Placebo
+ACCESS_700421,222,0.24,42,White,Hispanic or Latino,Placebo
+ACCESS_700421,278,0.12,42,White,Hispanic or Latino,Placebo
+ACCESS_700421,306,0.22,42,White,Hispanic or Latino,Placebo
+ACCESS_700421,334,0.23,42,White,Hispanic or Latino,Placebo
+ACCESS_700421,749,3.4,42,White,Hispanic or Latino,Placebo
+ACCESS_710769,0,2.69,25,White,Hispanic or Latino,Placebo
+ACCESS_710769,16,3.65,25,White,Hispanic or Latino,Placebo
+ACCESS_710769,29,1.4,25,White,Hispanic or Latino,Placebo
+ACCESS_710769,42,2.68,25,White,Hispanic or Latino,Placebo
+ACCESS_710769,56,1.38,25,White,Hispanic or Latino,Placebo
+ACCESS_710769,70,0.97,25,White,Hispanic or Latino,Placebo
+ACCESS_710769,112,1.48,25,White,Hispanic or Latino,Placebo
+ACCESS_710769,140,1.49,25,White,Hispanic or Latino,Placebo
+ACCESS_710769,196,0.46,25,White,Hispanic or Latino,Placebo
+ACCESS_710769,224,0.18,25,White,Hispanic or Latino,Placebo
+ACCESS_710769,282,0.11,25,White,Hispanic or Latino,Placebo
+ACCESS_710769,310,0.14,25,White,Hispanic or Latino,Placebo
+ACCESS_710769,338,0.33,25,White,Hispanic or Latino,Placebo
+ACCESS_710769,737,0.07,25,White,Hispanic or Latino,Placebo
+ACCESS_728908,0,1.89,48,White,Hispanic or Latino,Placebo
+ACCESS_728908,15,8.38,48,White,Hispanic or Latino,Placebo
+ACCESS_728908,30,7.76,48,White,Hispanic or Latino,Placebo
+ACCESS_728908,44,3.19,48,White,Hispanic or Latino,Placebo
+ACCESS_728908,58,4.77,48,White,Hispanic or Latino,Placebo
+ACCESS_728908,72,1.04,48,White,Hispanic or Latino,Placebo
+ACCESS_728908,113,2.35,48,White,Hispanic or Latino,Placebo
+ACCESS_728908,140,0.78,48,White,Hispanic or Latino,Placebo
+ACCESS_728908,198,0.72,48,White,Hispanic or Latino,Placebo
+ACCESS_728908,226,0.32,48,White,Hispanic or Latino,Placebo
+ACCESS_728908,282,0.5,48,White,Hispanic or Latino,Placebo
+ACCESS_728908,301,0.59,48,White,Hispanic or Latino,Placebo
+ACCESS_728908,331,0.31,48,White,Hispanic or Latino,Placebo
+ACCESS_728908,364,0.44,48,White,Hispanic or Latino,Placebo
+ACCESS_728908,730,1,48,White,Hispanic or Latino,Placebo
+ACCESS_731114,0,5.31,28,White,Not Hispanic or Latino,Placebo
+ACCESS_731114,13,4.38,28,White,Not Hispanic or Latino,Placebo
+ACCESS_731114,27,6.56,28,White,Not Hispanic or Latino,Placebo
+ACCESS_731114,41,0.96,28,White,Not Hispanic or Latino,Placebo
+ACCESS_731114,55,0.44,28,White,Not Hispanic or Latino,Placebo
+ACCESS_731114,69,0.44,28,White,Not Hispanic or Latino,Placebo
+ACCESS_731114,111,0.3,28,White,Not Hispanic or Latino,Placebo
+ACCESS_731114,139,0.31,28,White,Not Hispanic or Latino,Placebo
+ACCESS_731114,195,0.2,28,White,Not Hispanic or Latino,Placebo
+ACCESS_731114,223,0.45,28,White,Not Hispanic or Latino,Placebo
+ACCESS_731114,286,0.23,28,White,Not Hispanic or Latino,Placebo
+ACCESS_731114,308,0.2,28,White,Not Hispanic or Latino,Placebo
+ACCESS_731114,335,0.16,28,White,Not Hispanic or Latino,Placebo
+ACCESS_731114,707,0.15,28,White,Not Hispanic or Latino,Placebo
+ACCESS_744305,0,3.51,33,White,Hispanic or Latino,Placebo
+ACCESS_744305,14,1.66,33,White,Hispanic or Latino,Placebo
+ACCESS_744305,29,2.72,33,White,Hispanic or Latino,Placebo
+ACCESS_744305,42,1.75,33,White,Hispanic or Latino,Placebo
+ACCESS_744305,57,1.48,33,White,Hispanic or Latino,Placebo
+ACCESS_744305,70,0.57,33,White,Hispanic or Latino,Placebo
+ACCESS_744305,112,0.82,33,White,Hispanic or Latino,Placebo
+ACCESS_744305,141,0.85,33,White,Hispanic or Latino,Placebo
+ACCESS_744305,196,0.32,33,White,Hispanic or Latino,Placebo
+ACCESS_744305,224,0.55,33,White,Hispanic or Latino,Placebo
+ACCESS_744305,280,0.78,33,White,Hispanic or Latino,Placebo
+ACCESS_744305,308,0.41,33,White,Hispanic or Latino,Placebo
+ACCESS_744305,336,0.37,33,White,Hispanic or Latino,Placebo
+ACCESS_744305,727,2.22,33,White,Hispanic or Latino,Placebo
+ACCESS_766786,-13,4.64,27,Black,Not Hispanic or Latino,Placebo
+ACCESS_766786,0,3.84,27,Black,Not Hispanic or Latino,Placebo
+ACCESS_766786,14,1.98,27,Black,Not Hispanic or Latino,Placebo
+ACCESS_766786,28,2.4,27,Black,Not Hispanic or Latino,Placebo
+ACCESS_766786,44,2.23,27,Black,Not Hispanic or Latino,Placebo
+ACCESS_766786,56,1.02,27,Black,Not Hispanic or Latino,Placebo
+ACCESS_766786,70,0.7,27,Black,Not Hispanic or Latino,Placebo
+ACCESS_766786,106,1,27,Black,Not Hispanic or Latino,Placebo
+ACCESS_766786,142,0.41,27,Black,Not Hispanic or Latino,Placebo
+ACCESS_766786,198,0.86,27,Black,Not Hispanic or Latino,Placebo
+ACCESS_766786,226,0.75,27,Black,Not Hispanic or Latino,Placebo
+ACCESS_766786,283,2.25,27,Black,Not Hispanic or Latino,Placebo
+ACCESS_766786,314,1.97,27,Black,Not Hispanic or Latino,Placebo
+ACCESS_766786,338,2.24,27,Black,Not Hispanic or Latino,Placebo
+ACCESS_766786,372,2.82,27,Black,Not Hispanic or Latino,Placebo
+ACCESS_766786,402,2.2,27,Black,Not Hispanic or Latino,Placebo
+ACCESS_771631,-9,1.07,31,Black,Not Hispanic or Latino,Abatacept
+ACCESS_771631,0,0.89,31,Black,Not Hispanic or Latino,Abatacept
+ACCESS_771631,12,0.27,31,Black,Not Hispanic or Latino,Abatacept
+ACCESS_771631,26,0.25,31,Black,Not Hispanic or Latino,Abatacept
+ACCESS_771631,40,0.09,31,Black,Not Hispanic or Latino,Abatacept
+ACCESS_771631,54,0.19,31,Black,Not Hispanic or Latino,Abatacept
+ACCESS_771631,68,0.16,31,Black,Not Hispanic or Latino,Abatacept
+ACCESS_771631,110,0.09,31,Black,Not Hispanic or Latino,Abatacept
+ACCESS_771631,138,0.06,31,Black,Not Hispanic or Latino,Abatacept
+ACCESS_771631,194,0.07,31,Black,Not Hispanic or Latino,Abatacept
+ACCESS_771631,222,0.07,31,Black,Not Hispanic or Latino,Abatacept
+ACCESS_771631,278,2.72,31,Black,Not Hispanic or Latino,Abatacept
+ACCESS_771631,301,0.06,31,Black,Not Hispanic or Latino,Abatacept
+ACCESS_771631,341,0.07,31,Black,Not Hispanic or Latino,Abatacept
+ACCESS_771631,731,0.05,31,Black,Not Hispanic or Latino,Abatacept
+ACCESS_784803,0,1.46,24,Black,Not Hispanic or Latino,Placebo
+ACCESS_784803,15,1.1,24,Black,Not Hispanic or Latino,Placebo
+ACCESS_784803,30,0.5,24,Black,Not Hispanic or Latino,Placebo
+ACCESS_784803,43,0.39,24,Black,Not Hispanic or Latino,Placebo
+ACCESS_784803,56,1,24,Black,Not Hispanic or Latino,Placebo
+ACCESS_784803,72,0.71,24,Black,Not Hispanic or Latino,Placebo
+ACCESS_784803,112,0.56,24,Black,Not Hispanic or Latino,Placebo
+ACCESS_784803,133,0.48,24,Black,Not Hispanic or Latino,Placebo
+ACCESS_784803,168,0.73,24,Black,Not Hispanic or Latino,Placebo
+ACCESS_784803,197,0.39,24,Black,Not Hispanic or Latino,Placebo
+ACCESS_784803,225,0.36,24,Black,Not Hispanic or Latino,Placebo
+ACCESS_784803,252,0.4,24,Black,Not Hispanic or Latino,Placebo
+ACCESS_784803,280,0.41,24,Black,Not Hispanic or Latino,Placebo
+ACCESS_784803,308,0.2,24,Black,Not Hispanic or Latino,Placebo
+ACCESS_784803,357,0.33,24,Black,Not Hispanic or Latino,Placebo
+ACCESS_784803,735,2.71,24,Black,Not Hispanic or Latino,Placebo
+ACCESS_796140,-7,2.61,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_796140,0,0.36,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_796140,16,0.37,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_796140,28,0.21,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_796140,42,0.47,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_796140,56,0.41,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_796140,70,0.25,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_796140,112,0.35,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_796140,140,0.33,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_796140,196,0.55,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_796140,224,0.71,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_796140,281,1.36,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_796140,308,1.34,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_796140,336,1.44,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_796140,364,1.28,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_796140,744,0.47,22,Black,Not Hispanic or Latino,Abatacept
+ACCESS_913111,-9,2.9,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_913111,0,1.9,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_913111,16,1.09,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_913111,28,1.75,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_913111,44,1.48,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_913111,61,1.03,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_913111,72,1.01,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_913111,114,1.95,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_913111,140,0.66,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_913111,198,0.8,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_913111,229,0.67,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_913111,282,0.8,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_913111,310,1.04,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_913111,345,0.59,31,Black,Not Hispanic or Latino,Placebo
+ACCESS_922208,0,1.03,18,Black,Not Hispanic or Latino,Abatacept
+ACCESS_922208,12,0.26,18,Black,Not Hispanic or Latino,Abatacept
+ACCESS_922208,28,0.09,18,Black,Not Hispanic or Latino,Abatacept
+ACCESS_922208,47,0.07,18,Black,Not Hispanic or Latino,Abatacept
+ACCESS_922208,56,0.07,18,Black,Not Hispanic or Latino,Abatacept
+ACCESS_922208,70,0.11,18,Black,Not Hispanic or Latino,Abatacept
+ACCESS_922208,112,0.05,18,Black,Not Hispanic or Latino,Abatacept
+ACCESS_922208,142,0.05,18,Black,Not Hispanic or Latino,Abatacept
+ACCESS_922208,196,0.07,18,Black,Not Hispanic or Latino,Abatacept
+ACCESS_922208,233,0.08,18,Black,Not Hispanic or Latino,Abatacept
+ACCESS_922208,280,0.04,18,Black,Not Hispanic or Latino,Abatacept
+ACCESS_922208,308,0.06,18,Black,Not Hispanic or Latino,Abatacept
+ACCESS_922208,336,0.05,18,Black,Not Hispanic or Latino,Abatacept
+ACCESS_922208,765,1.03,18,Black,Not Hispanic or Latino,Abatacept
+ACCESS_933734,0,9.4,35,White,Hispanic or Latino,Abatacept
+ACCESS_933734,15,3.8,35,White,Hispanic or Latino,Abatacept
+ACCESS_933734,29,2.2,35,White,Hispanic or Latino,Abatacept
+ACCESS_933734,43,1.93,35,White,Hispanic or Latino,Abatacept
+ACCESS_933734,57,0.72,35,White,Hispanic or Latino,Abatacept
+ACCESS_933734,71,0.66,35,White,Hispanic or Latino,Abatacept
+ACCESS_933734,113,1.67,35,White,Hispanic or Latino,Abatacept
+ACCESS_933734,141,0.8,35,White,Hispanic or Latino,Abatacept
+ACCESS_933734,197,1.1,35,White,Hispanic or Latino,Abatacept
+ACCESS_933734,225,0.72,35,White,Hispanic or Latino,Abatacept
+ACCESS_933734,281,0.58,35,White,Hispanic or Latino,Abatacept
+ACCESS_933734,314,0.71,35,White,Hispanic or Latino,Abatacept
+ACCESS_933734,335,0.64,35,White,Hispanic or Latino,Abatacept
+ACCESS_933734,736,0.7,35,White,Hispanic or Latino,Abatacept
+ACCESS_941233,0,2.52,27,White,Hispanic or Latino,Abatacept
+ACCESS_941233,14,3.18,27,White,Hispanic or Latino,Abatacept
+ACCESS_941233,30,1,27,White,Hispanic or Latino,Abatacept
+ACCESS_941233,42,1.89,27,White,Hispanic or Latino,Abatacept
+ACCESS_941233,58,0.97,27,White,Hispanic or Latino,Abatacept
+ACCESS_941233,70,1.33,27,White,Hispanic or Latino,Abatacept
+ACCESS_941233,112,0.83,27,White,Hispanic or Latino,Abatacept
+ACCESS_941233,140,0.78,27,White,Hispanic or Latino,Abatacept
+ACCESS_941233,196,0.94,27,White,Hispanic or Latino,Abatacept
+ACCESS_941233,224,0.55,27,White,Hispanic or Latino,Abatacept
+ACCESS_941233,280,0.78,27,White,Hispanic or Latino,Abatacept
+ACCESS_941233,308,0.44,27,White,Hispanic or Latino,Abatacept
+ACCESS_941233,336,0.45,27,White,Hispanic or Latino,Abatacept
+ACCESS_941233,730,0.17,27,White,Hispanic or Latino,Abatacept
+ACCESS_943153,0,1.31,52,Black,Not Hispanic or Latino,Placebo
+ACCESS_943153,14,0.89,52,Black,Not Hispanic or Latino,Placebo
+ACCESS_943153,28,0.51,52,Black,Not Hispanic or Latino,Placebo
+ACCESS_943153,41,0.21,52,Black,Not Hispanic or Latino,Placebo
+ACCESS_943153,56,0.16,52,Black,Not Hispanic or Latino,Placebo
+ACCESS_943153,76,0.56,52,Black,Not Hispanic or Latino,Placebo
+ACCESS_943153,116,0.39,52,Black,Not Hispanic or Latino,Placebo
+ACCESS_943153,144,0.5,52,Black,Not Hispanic or Latino,Placebo
+ACCESS_943153,199,0.85,52,Black,Not Hispanic or Latino,Placebo
+ACCESS_943153,224,0.46,52,Black,Not Hispanic or Latino,Placebo
+ACCESS_943153,284,0.1,52,Black,Not Hispanic or Latino,Placebo
+ACCESS_943153,312,0.29,52,Black,Not Hispanic or Latino,Placebo
+ACCESS_943153,340,0.69,52,Black,Not Hispanic or Latino,Placebo
+ACCESS_943153,748,0.3,52,Black,Not Hispanic or Latino,Placebo
+ACCESS_959492,0,6.82,29,Black,Not Hispanic or Latino,Abatacept
+ACCESS_959492,14,5.06,29,Black,Not Hispanic or Latino,Abatacept
+ACCESS_959492,28,3.69,29,Black,Not Hispanic or Latino,Abatacept
+ACCESS_959492,43,3.1,29,Black,Not Hispanic or Latino,Abatacept
+ACCESS_959492,56,4.63,29,Black,Not Hispanic or Latino,Abatacept
+ACCESS_959492,70,4.16,29,Black,Not Hispanic or Latino,Abatacept
+ACCESS_959492,85,4.19,29,Black,Not Hispanic or Latino,Abatacept
+ACCESS_959492,107,2.4,29,Black,Not Hispanic or Latino,Abatacept
+ACCESS_959492,139,4.5,29,Black,Not Hispanic or Latino,Abatacept
+ACCESS_959492,198,2.21,29,Black,Not Hispanic or Latino,Abatacept
+ACCESS_959492,230,0.87,29,Black,Not Hispanic or Latino,Abatacept
+ACCESS_959492,287,2.38,29,Black,Not Hispanic or Latino,Abatacept
+ACCESS_959492,310,1.28,29,Black,Not Hispanic or Latino,Abatacept
+ACCESS_959492,338,1.75,29,Black,Not Hispanic or Latino,Abatacept
+ACCESS_959492,758,3.72,29,Black,Not Hispanic or Latino,Abatacept
+ACCESS_966565,-20,1.01,29,Black,Hispanic or Latino,Placebo
+ACCESS_966565,27,0.16,29,Black,Hispanic or Latino,Placebo
+ACCESS_966565,41,0.11,29,Black,Hispanic or Latino,Placebo
+ACCESS_966565,57,0.11,29,Black,Hispanic or Latino,Placebo
+ACCESS_966565,71,0.1,29,Black,Hispanic or Latino,Placebo
+ACCESS_966565,85,0.1,29,Black,Hispanic or Latino,Placebo
+ACCESS_966565,113,0.09,29,Black,Hispanic or Latino,Placebo
+ACCESS_966565,147,0.08,29,Black,Hispanic or Latino,Placebo
+ACCESS_966565,171,0.07,29,Black,Hispanic or Latino,Placebo
+ACCESS_966565,191,0.06,29,Black,Hispanic or Latino,Placebo
+ACCESS_966565,217,0.12,29,Black,Hispanic or Latino,Placebo
+ACCESS_966565,287,0.06,29,Black,Hispanic or Latino,Placebo
+ACCESS_966565,309,0.07,29,Black,Hispanic or Latino,Placebo
+ACCESS_966565,330,0.06,29,Black,Hispanic or Latino,Placebo
+ACCESS_966565,372,0.05,29,Black,Hispanic or Latino,Placebo
+ACCESS_966565,749,0.05,29,Black,Hispanic or Latino,Placebo
