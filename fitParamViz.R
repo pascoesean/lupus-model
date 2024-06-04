@@ -56,6 +56,7 @@ vals_w_demo |>
   geom_smooth(method = 'lm', se = FALSE) +
   ggpubr::stat_cor(method = "kendall", cor.coef.name = "tau", label.y = 0.75) +
   facet_grid(model_type~parameter) +
+  labs(title = "Fitted Parameter Values by Age", subtitle = "Kendall's Tau used for correlations") +
   ggpubr::theme_pubr()
 
 
