@@ -7,7 +7,7 @@ This experiment sets out to create a mathematical model of kidney damage flare u
 All code needed to recreate model fits and parameter manipulations is contained in `mathematical_model.ipynb`, with some dependencies in `helpers.py`. Although scipy is used, a sage kernel should be employed as some syntax is sage specific. 
 
 
-`dataWrangling.R` is used to process data from the access study. Raw data is not uploaded to github for patient privacy but is available from the [Immune Tolerance Network’s Trial Share platform](https://www.itntrialshare.org/project/Studies/ITN034AIPUBLIC/Study Data/begin.view).
+`dataWrangling.R` is used to process data from the access study. Raw data is not uploaded to github for patient privacy but is available from the [Immune Tolerance Network’s Trial Share platform](https://www.itntrialshare.org/project/Studies/ITN034AIPUBLIC/Study Data/begin.view). 
 
 `run_fixed.py` and `run_stochastic.py` can be used with data from `dataWrangling.R` to fit the original model (fixed) or the model with stochastic fluctuations (stochastic). These are designed to be used with SLURM via `jobscript.sh`.
 
