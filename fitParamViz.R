@@ -1,7 +1,6 @@
 # looking at the different parameter values for different people
 
 library(tidyverse)
-source("pairwise_comparisons.R")
 
 fpvals <- read_csv("data/fitted_parameter_values.csv") |>
   select(!`...1`)
@@ -15,6 +14,17 @@ vals_w_demo <- fpvals |>
 
 
 vals_w_demo |>
+  ggplot(aes(x = Race, y = value, color = Race)) +
+  geom_boxplot(outlier.shape = NA) +
+  geom_point(position = position_jitterdodge()) +
+  #ggpubr::stat_compare_means() + 
+  facet_grid(model_type~parameter) +
+  labs(title = "Fitted Parameter Values by Race") +
+  ggpubr::theme_pubr()
+
+# just the stoch kpi
+vals_w_demo |>
+  filter(parameter == "kpi" & model_type == "stochastic") |>
   ggplot(aes(x = Race, y = value, color = Race)) +
   geom_boxplot(outlier.shape = NA) +
   geom_point(position = position_jitterdodge()) +
